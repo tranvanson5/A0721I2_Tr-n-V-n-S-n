@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Đăng kí học viên</title>
+</head>
+<body>
+    <div class="content">
+        <form method="post" action="">
+            <div id="title">
+                <h2>ĐĂNG KÝ HỌC VIÊN</h2>
+            </div>
+            <div>
+                <table>
+                    <tr>
+                        <td><label>Họ Và Tên: </label></td>
+                        <td><input type="text" name="hovaten" id="hovaten"></td>
+                    </tr>
+                    <tr>
+                        <td><label>Ngày sinh: </label></td>
+                        <td><input type="date" name="ngaysinh" id="ngaysinh"></td>
+                    </tr>
+                    <tr>
+                        <td><label>Giới tính:</label></td>
+                        <td><input type="radio" name="gioitinh" id="gioitinh" value="nam">Nam
+                        <input type="radio" name="gioitinh" id="gioitinh" value="nu">Nữ</td>
+                    </tr>
+                    <tr>
+                        <td><label>Địa chỉ: </label></td>
+                        <td><textarea></textarea></td>
+                    </tr>
+                    <tr>
+                        <td><label>Lớp: </label></td>
+                        <td>
+                            <select>
+                                <option>-Chọn lớp-</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><label>Email:</label></td>
+                        <td><input type="email" name="email" id=""></td>
+                    </tr>
+                    <tr>
+                        <td><label>Số điện thoại</label></td>
+                        <td><input type="number" name="sodienthoai" id="sodienthoai"></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td><input type="submit" name="dangki" id="dangki" value="Đăng ký">
+                        <input type="reset" name="nhaplai" id="nhaplai" value="Nhập lại"></td>
+                    </tr>
+                </table>
+            </div>
+        </form>
+    </div>
+</body>
+<style>
+    body{
+    }
+    .content{
+        background-color: khaki;
+        height: auto;
+        width: 500px;
+        margin: auto;
+        padding: 10px;
+    }
+    #title{
+        background-color: aquamarine;
+        color: cornflowerblue;
+    }
+    #title h2{
+        margin: 0px;
+    }
+    table tr td label{
+        color: ;
+    }
+</style>
+</html>
