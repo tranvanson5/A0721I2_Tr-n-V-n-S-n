@@ -1,0 +1,34 @@
+.content{
+    width: 640px;
+    height: auto;
+    padding: 0px;
+}
+.content #tb01 h2{
+    color: blue;
+}
+#tb01{
+    transform: translate(50%);
+    border: none;
+}
+#tb01 td,th{
+    border: none;
+}
+#tb01 #col2{
+    align: right;
+}
+
+#tb02{
+    border-collapse: collapse;
+    border: 1px black solid;
+    transform: translate(25%);
+}
+#tb02 td,th{
+    border-collapse: collapse;
+    border: 1px black solid;
+}
+#tb02 #row1 th{
+    background-color: yellow;
+}
+#tb02 #row2{
+    background-color: gold;
+}
