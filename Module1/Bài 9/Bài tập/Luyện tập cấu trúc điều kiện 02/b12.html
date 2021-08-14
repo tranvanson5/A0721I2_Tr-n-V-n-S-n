@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+</body>
+<script>
+    alert("Chương trình tính lãi ngân hàng (lãi mẹ đẻ lãi con) khi biết số tiền ban đầu, số tháng cho vay và lãi xuất hàng tháng");
+    let a=prompt("nhập số tiền gửi");
+    let b=prompt("nhập số tháng gửi");
+    a=parseFloat(a);
+    for(i = 0; i < b; i++)
+    {
+        a = a + a * 3 / 100;
+    }
+    alert("số tiền sau "+b+" là: "+a );
+</script>
+</html>

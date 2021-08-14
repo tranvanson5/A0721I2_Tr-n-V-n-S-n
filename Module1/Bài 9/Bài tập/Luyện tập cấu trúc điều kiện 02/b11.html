@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+</body>
+<script>
+    alert("tính thuế thu nhập cá nhân");
+    let a=prompt("nhập số tiền lương (đơn vị triệu): ");
+    a=parseFloat(a);
+    if (a>84){
+        alert("số thuế thu thập cá nhân là: "+(a*35/100));
+    }else if(a>44){
+        alert("số thuế thu thập cá nhân là: "+(a*30/100));
+    }else if(a>24){
+        alert("số thuế thu thập cá nhân là: "+(a*25/100));
+    }else if(a>14){
+        alert("số thuế thu thập cá nhân là: "+(a*20/100));
+    }else if(a>9){
+        alert("số thuế thu thập cá nhân là: "+(a*15/100));
+    }else if(a>6){
+        alert("số thuế thu thập cá nhân là: "+(a*10/100));
+    }else if(a>4){
+        alert("số thuế thu thập cá nhân là: "+(a*5/100));
+    } else {
+        alert("số thuế thu thập cá nhân là: "+(a*0/100));
+    }
+</script>
+</html>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+</body>
+<script>
+    alert("giải phương trình bậc 2")
+    let a=prompt("nhập a: ");
+    let b=prompt("nhập b: ");
+    let c=prompt("nhập c: ");
+    if(a==0){
+        alert("không phải phương trình bậc 2");
+    }
+    let delta= Math.pow(b,2)-4*a*c;
+    if (delta<0){
+        alert("phương trình vô nghiệm ");
+    } else if(delta==0){
+        alert("phương trình có 1 nghiệm : x= "+(-(b/(2*a))));
+    } else  {
+        alert("phương trường có 3 nghiệm : x1 = "+((-b+Math.sqrt(delta))/(2*a))+"    x2= "+((-b-Math.sqrt(delta,2))/(2*a)))
+    }
+</script>
+</html>

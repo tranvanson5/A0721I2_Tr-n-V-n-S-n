@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Title</title>
+    </head>
+    <body>
+        <input type="number" id="money" value="0">
+        <select id="select1">
+            <option value="VND">VND</option>
+            <option value="USD">USD</option>
+        </select>
+        <select id="select2">
+            <option value="USD">USD</option>
+            <option value="VND">VND</option>
+        </select>
+        <button onclick="convert()">Convert</button>
+        <div>Result:<span id="result">0</span></div>
+    </body>
+    <script>
+        let mon=document.getElementById("money");
+        let trans=23000;
+        let select1=document.getElementById("select1");
+        let select2=document.getElementById("select2");
+        let result = document.getElementById("result");
+        function convert() {
+            if(select1.value== "VND" && select2.value == "USD"){
+                result.innerHTML=mon.value / trans;
+            } else if (select1.value == "USD" && select2.value == "VND") {
+                result.innerHTML = mon.value *trans;
+            } else if((select1.value == "USD" && select2.value == "USD")||(select1.value === "USD" && select2.value == "USD"))
+                result.innerText=mon.value;
+        }
+    </script>
+</html>

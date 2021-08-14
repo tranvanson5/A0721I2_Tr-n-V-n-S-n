@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <input type="number" id="in1" value="0">
+    <input type="number" id="in2" value="0"><br>
+    <button onclick="add()">Addition(+)</button>
+    <button onclick="sub()">Subtraction(-)</button>
+    <button onclick="mul()">Multiplication(*)</button>
+    <button onclick="div()">Division(/)</button><br>
+    <label>Result: <span id="result">0</span></label>
+</body>
+<script>
+    let inp1=document.getElementById("in1");
+    let inp2=document.getElementById("in2");
+    let result=document.getElementById("result");
+    function add() {
+        result.innerHTML=parseFloat(inp1.value)+parseFloat(inp2.value);
+    }
+    function sub() {
+        result.innerHTML=parseFloat(inp1.value)-parseFloat(inp2.value);
+    }
+    function mul() {
+        result.innerHTML=parseFloat(inp1.value)*parseFloat(inp2.value);
+    }
+    function div() {
+        result.innerHTML=parseFloat(inp1.value)/parseFloat(inp2.value);
+    }
+</script>
+</html>
