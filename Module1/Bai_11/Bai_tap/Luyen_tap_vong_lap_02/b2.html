@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+</body>
+<script>
+    let n;
+    do{
+        n=parseInt(prompt("nhập số giai thừa"));
+    }while (n<=0);
+    let sum=1;
+    while(n>0){
+        sum=sum*n;
+        document.write(n+" * ");
+        n--;
+    }
+    document.write("<br>"+sum);
+</script>
+</html>

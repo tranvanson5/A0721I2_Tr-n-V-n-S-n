@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+</body>
+<script>
+        let lai=0.6/100;
+        let tien=parseFloat(prompt("Nhập số tiền"));
+        let sothang=parseFloat(prompt("Nhập số tháng"));
+        for(i=1;i<=sothang;i++){
+            tien=tien+tien*lai;
+        }
+        alert("tổng số tiền gửi sau "+sothang+" thang là : "+tien);
+</script>
+
+</html>

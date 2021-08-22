@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<input type="text" name="ouput" id="output" style="width: 250px" >
+<input type="button" name="replay" value="Replay" onclick="replay();">
+<script>
+    let input = parseInt(prompt("Nhập khoảng mà bạn muốn dự đoán: "));
+    let number = parseInt(prompt("Nhập số mà bạn muốn dự đoán: "));
+    let rand = Math.floor(Math.random() * input);
+    if (number == rand){
+        alert("Chúc mừng!!! bạn đã dự đoán trúng");
+    }else {
+        document.getElementById("output").value = "Rất tiếc!! bạn đã dự đoán sai";
+    }
+    function replay() {
+        let input = parseInt(prompt("Nhập khoảng mà bạn muốn dự đoán: "));
+        let number = parseInt(prompt("Nhập số mà bạn muốn dự đoán: "));
+        let rand = Math.floor(Math.random() * input);
+        if (number == rand){
+            alert("Chúc mừng!!! bạn đã dự đoán trúng");
+        }else {
+            document.getElementById("output").value = "Rất tiếc!! bạn đã dự đoán sai";
+        }
+    }
+</script>
+
+</body>
+</html>

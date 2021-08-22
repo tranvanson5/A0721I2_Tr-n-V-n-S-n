@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let i=30;
+    let a=0;
+    let b=1;
+    let  temp=null;
+    let coun=0;
+    let s=0;
+    while(i>0){
+        temp = a;
+        a = a + b;
+        b = temp;
+        if (a%7==0){
+            s=s+a;
+            document.write(a+"<br>")
+            i--;
+        }
+    }
+    document.write("<br>"+s);
+
+</script>
+
+</body>
+</html>
