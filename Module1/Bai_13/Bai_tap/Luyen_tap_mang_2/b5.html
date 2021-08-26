@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+</body>
+<script>
+    let str1_inp=prompt("nhập chuỗi thứ nhất");
+    let str2_inp=prompt("nhập chuỗi thứ hai");
+    function dtr(str) {
+        var newStr = '';
+        str = str.trim();
+        for(let i=0; i<str.length; i++){
+            if(str[i]==' ' && str[i+1]==' '){
+                newStr +='';
+            }else if(i==0 || str[i-1]==' '){
+                newStr = newStr + str[i].toUpperCase();
+            }else {
+                newStr = newStr + str[i].toLowerCase();
+            }
+        }
+        return newStr;
+    }
+    str1=dtr(dtr(str1_inp));
+    str2=dtr(dtr(str2_inp));
+    let count = 0;
+    let i = 0;
+    if(str1.length != str2.length){
+        alert('chuỗi 1 và chuỗi 2 không giống nhau');
+    }else {
+        while (i < str1.length){
+            if(str1[i] != str2[i]){
+                count += 1;
+                break;
+            }
+            i++;
+        }
+    }
+    if(count == 1){
+        alert('chuỗi 1 và chuỗi 2 không giống giống nhau');
+    }else {
+        alert('chuỗi 1 và chuỗi 2 giống nhau');
+    }
+</script>
+</html>

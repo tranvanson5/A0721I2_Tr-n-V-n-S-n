@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+</body>
+<script>
+    var a=[];
+    let max=0;
+    let tb=0;
+    let count=0;
+    for (var i = 0; i < 10; i++) {
+        a[i]= parseInt(Math.random()*100) ;
+        if (a[i]>max){
+            max=a[i];
+        }
+        document.write(a[i]+"  ");
+        tb=tb+a[i];
+        count++;
+    }
+    document.write("<br>Số lớn nhất là "+max);
+    document.write("<br>Trung bình cộng là "+tb/count);
+</script>
+</html>

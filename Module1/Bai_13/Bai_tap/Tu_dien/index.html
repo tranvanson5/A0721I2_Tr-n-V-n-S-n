@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<input type="text" id="ENG" name="ENG">
+<input type="text" id="VN" name="VN">
+<br><br>
+<input type="button" value="Translate" onclick="do_something();">  <input type="button" value="Clean" onclick="clean();">
+<script>
+    var a = ["one","tow","three","four","five"];
+    var b = ["một","hai","ba","bốn","năm"];
+
+    function do_something(){
+        var get = document.getElementById("ENG").value;
+        var index = a.indexOf(get);
+        var m = b[index];
+        document.getElementById("VN").value = m;
+    }
+</script>
+
+</body>
+</html>

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    var a = "   Viết một chương trình để đếm số từ trong một chuỗi";
+    var count = 0;
+    a = a.trim();
+    for (let i=0; i<a.length;i++){
+        if (a[i]==" "){
+            if(a[i+1]!=" "){
+                if((a[i+1]>="A"&&a[i+1]>="Z")||(a[i+1]>="a"&&a[i+1]>="a")){
+                    count++;
+                }
+            }
+        }
+    }
+    if(count==0){
+        document.write("Số ký tự trong chuổi là "+(count))
+    } else {
+        document.write("Số ký tự trong chuổi là "+(count+1));
+    }
+</script>
+
+</body>
+</html>

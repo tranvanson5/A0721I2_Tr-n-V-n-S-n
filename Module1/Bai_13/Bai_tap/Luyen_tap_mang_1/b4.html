@@ -1,0 +1,27 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    var a = [];
+    for (let i=0; i<5; i++){
+        a[i] = parseInt(prompt("Nhập vào mảng: "));
+    }
+    var i = 0;
+    var j = a.length - 1;
+    while (i<j){
+        let temp = a[j];
+        a[j] = a[i];
+        a[i] = temp;
+        i++;
+        j--;
+    }
+    document.write(a+" ");
+</script>
+
+</body>
+</html>

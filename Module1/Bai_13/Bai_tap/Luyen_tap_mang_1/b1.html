@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+</body>
+<script>
+    var a=[];
+    let count=0;
+    for (var i = 0; i < 10; i++) {
+        a[i]=Math.floor(Math.random() * 20) + 1;
+        if (a[i]>=10){
+            document.write(a[i]+"<br>");
+            count++;
+        }
+    }
+    document.write("có "+count+" số lơn hơn hoặc bằng 10");
+</script>
+</html>
