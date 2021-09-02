@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+</body>
+<script>
+    function find(arr, a) {
+        var count = 0;
+        for (let i = 0; i < arr.length; i++) {
+            if (arr[i] === a) {
+                count++
+            }
+        }
+        if (count > 0) {
+            return count;
+        } else {
+            return -1;
+        }
+    }
+    arr = ['a', 'a', 'b', 'c', 'c', 'c', 'd'];
+    a = prompt("nhập kí tự cần tìm");
+    find(arr, a);
+    if (find(arr, a) == -1) {
+        document.write("ký tự '" + a + "' không xuất hiện trong mảng.");
+    } else {
+        document.write("Ký tự '" + a + "' xuất hiện " + find(arr, a) + " lần trong mảng.");
+    }
+</script>
+</html>
