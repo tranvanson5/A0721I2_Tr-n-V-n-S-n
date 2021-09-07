@@ -8,71 +8,52 @@
 
 </body>
 <script>
-    class apple{
-        constructor() {
-            this.weight= 10;
-        }
-        decrease(){
-            return this.weight--;
-        }
-        isEmpty(){
-            if(this.decrease()==0){
-                console("Hết một táo");
-            } else this.decrease();
-        }
-    }
-    class human{
-        constructor(name,gender, weight) {
-            this._name = name;
-            this._gender = gender;
-            this._weight = weight;
-        }
+    var apple=function () {
+        weight=10;
+        this.weightApple=function () {
+            this.weight=weight;
+        };
+        this.descrease=function () {
+                if(this.weight>0){
+                   return this.weight;
+                }else return this.weight=0;
+        };
+    };
+    var Human = function (name,gender,weight) {
+        this.name=name;
+        this.gender=gender;
+        this.weight=weight;
 
-        get name() {
-            return this._name;
-        }
-
-        set name(name) {
-            this._name = name;
-        }
-
-        get gender() {
-            return this._gender;
-        }
-
-        set gender(gender) {
-            this._gender = gender;
-        }
-
-        get weight() {
-            return this._weight;
-        }
-
-        set weight(weight) {
-            this._weight = weight;
-        }
-        checkApple(){
-            if(apple.decrease()==0){
-                return true;
-            } else false;
-        }
-        eat(){
-            if(checkApple()==true){
-                get._weight()+1;
+        this.getWeight=function () {
+            return this.weight;
+        };
+        this.setApple = function (apple) {
+            this.apple=apple;
+        };
+        this.eat = function () {
+            if (this.status){
+                this.weight ++;
             }
-        }
-        getInfo(human){
-            alert(human.name + " " +human.weight + " " +human.getGender());
-        }
-    }
-    var adam = new human("adam", 1, 65);
-    var eva = new human("eva", 2, 55);
-    adam.eat();
+        };
+        this.check=function () {
+            this.status = true;
+            this.apple.decrease;
+        };
+    };
+    var adam = new Human('Adam', 'Male',50);
+    var eva = new Human('Eva','Femal',45);
+    adam.setApple(apple);
+    eva.setApple(apple);
+    eva.check();
     eva.eat();
-    alert(apple.weight);
-    alert(adam.weight);
-    alert(eva.weight);
-    adam.getInfo(eva);
-    eva.getInfo(eva);
+    eva.eat();
+    document.write(eva.name+' : '+ eva.getWeight()+'<br>');
+    adam.check();
+    adam.eat();
+    adam.eat();
+    adam.eat();
+    adam.eat();
+    adam.eat();
+    document.write(adam.name+' : '+ adam.getWeight()+'<br>');
 </script>
 </html>
