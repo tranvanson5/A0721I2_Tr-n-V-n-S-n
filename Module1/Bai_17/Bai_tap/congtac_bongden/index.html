@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+</body>
+<script>
+    class sbutton{
+        status=true;
+        constructor(status) {
+            this.status=status;
+        }
+        turnOn_Off(){
+            this.status=!this.status;
+        }
+    }
+    class lamp{
+        constructor(switchButton) {
+            this.switchButton=switchButton;
+        }
+        switch(){
+            if(this.switchButton.status){
+                document.write("đang bật đèn<br>");
+            } else document.write("đã tắt đèn<br>");
+        }
+    }
+    sbutton=new sbutton();
+    lamp=new lamp(sbutton);
+    sbutton.turnOn_Off();
+    lamp.switch();
+    sbutton.turnOn_Off(); 
+    lamp.switch();
+    sbutton.turnOn_Off();
+    lamp.switch();
+</script>
+</html>
