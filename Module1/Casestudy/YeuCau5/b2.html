@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+</body>
+<script>
+    var count = 0;
+    var arrPrimeNumber = [];
+
+    var m = prompt("Nhập m");
+    var n = prompt("Nhập n");
+
+    var arr = new Array(n);
+
+    for(let i=0; i<n; i++){
+        arr[i] = new Array(m);
+        for (let j=0; j<m; j++){
+            arr[i][j] = parseInt(Math.random()*10);
+            document.write(arr[i][j]+"   ");
+        }
+        document.write("<br>");
+    }
+
+    for(let i=0; i<n; i++){
+        for (let j=0; j<m; j++){
+            var sum = 0;
+            for (h = 1; h <= arr[i][j];h++){
+                if(arr[i][j]%h == 0){
+                    sum++;
+                }
+            }
+            if(sum == 2){
+                arrPrimeNumber.push(arr[i][j]);
+                count++;
+            }
+        }
+    }
+
+    document.write("có "+count+" số nguyên tố: "+arrPrimeNumber);
+</script>
+</html>

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+</body>
+<script>
+    A=[7,2,5,3,5,3];
+    B=[7,2,5,4,6,3,5,3];
+   for(i=0;i<B.length;i++){
+        for (j=0;j<A.length;j++){
+            if(B[i]==A[j])
+            B.splice(i,1);
+        }
+   }
+   B=B.sort();
+   for(i=0;i<B.length;i++){
+       if(B[i]==B[i+1]){
+           B.splice(i,1);
+           i--;
+       }
+   }
+   document.write(B.join());
+</script>
+</html>

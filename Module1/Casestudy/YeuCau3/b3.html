@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+</body>
+<script>
+    numerators = [5, 2, 5];
+    denominators = [6, 3, 4];
+    ps=[];
+    max=0;
+    for(i=0;i<numerators.length;i++){
+        ps[i] = parseFloat(numerators[i]/denominators[i])
+        if(ps[i-1]<ps[i]) max=i;
+    }
+    cs=parseFloat(numerators[max]/denominators[max]-parseInt(numerators[max]/denominators[max]))*10;
+    document.write(numerators[max]+"/"+denominators[max]+" là phân số lớn nhất, có chỉ số là "+parseInt(cs));
+</script>
+</html>

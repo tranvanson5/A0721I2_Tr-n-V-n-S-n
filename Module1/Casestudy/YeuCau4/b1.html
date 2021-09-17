@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<script>
+    str=prompt("nhập chuỗi");
+    str=str.toLowerCase();
+    str=str.trim();
+    str1="";
+    str1+=str[0].toUpperCase();
+    for(i=0;i<str.length;i++){
+        if(str[i-1]==" "){
+            str1+=str[i].toUpperCase();
+        }else  str1+=str[i];
+    }
+    document.write(str1);
+</script>
+</body>
+</html>

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+</body>
+<script>
+    n=prompt("nhập số");
+    a=[1,2,3,4,5,6,7,8,9,0];
+    b=['một','hai','ba','bốn','năm','sáu','bảy','tám','chín','không'];
+    str="";
+    for(i=0;i<n.length;i++){
+        for(j=0;j<a.length;j++){
+            if(parseInt(n[i])==a[j]){
+                str+=b[j]+" ";
+            }
+        }
+    }
+    document.write(str);
+</script>
+</html>
