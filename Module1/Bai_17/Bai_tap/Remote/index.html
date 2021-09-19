@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>RemoteTV</title>
+</head>
+<body>
+<script>
+    class Remote {
+        constructor() {
+            this.code = 0;
+            this.volume = 0;
+            this.status = false;
+        }
+        setCode(code){
+            this.code = code;
+        }
+        setVolume(volume){
+            this.volume = volume;
+        }
+        setStatus(status){
+            this.status = status;
+        }
+
+
+    }
+    class Television {
+        constructor(channel, volume, status) {
+            this.channel = channel;
+            this.volume = volume;
+            this.status = status;
+        }
+        setChannel(remote){
+            this.channel = remote.code;
+        }
+        setVolume(volume){
+            this.volume += volume;
+        }
+        turnOn_TurnOff(){
+            this.status = !this.status;
+        }
+        checkPower(){
+            if (this.status){
+                console.log("TV đã bật")
+            } else console.log("TV đã tắt ")
+        }
+    }
+    let television = new Television(1,30,false);
+    let remote = new Remote();
+    television.checkPower();
+    television.turnOn_TurnOff();
+    television.checkPower();
+    television.channel = 1;
+    console.log("Hiện tại đang ở kênh: "+ television.channel);
+    remote.setCode(2);
+    television.channel = remote.code;
+    console.log("Hiện tại đang ở kênh: "+ television.channel);
+    console.log("Volume hiện tại của tivi: "+ television.volume);
+    remote.setVolume(3);
+    television.setVolume(remote.volume);
+    console.log("Volume hiện tại của tivi: "+ television.volume);
+
+    console.log(remote);
+    console.log(remote.volume);
+
+</script>
+</body>
+</html>
