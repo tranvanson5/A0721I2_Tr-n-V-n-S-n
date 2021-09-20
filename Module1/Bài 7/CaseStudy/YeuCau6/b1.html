@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+</body>
+ <script>
+        function click(){
+            let tab="";
+            tab+="<table >";
+            val=0;
+            for(i=0;i<10;i++){
+                tab+="<tr style=''>";
+                    for (j=0;j<10;j++){
+                        tab+="<td style='border: black solid 1px; width: 50px; height: 20px;border-radius: 5px;' value=val>"
+                            +val+"</td>" ;
+                        val++;
+                    }
+                tab+="</tr>";
+            }
+            tab+="</table>";
+            tab=document.write(tab);
+        }
+        function addrand(){
+
+
+        }
+        function random(){
+            ta=""
+            ta+="<table> <tr>";
+            for (i=0;i<6;i++){
+                ta+="<td>"+string(Math.random()*99-10)+"</td>"
+            }
+            ta+="</tr> </table>";
+        }
+        function select(){
+            let sel=parseInt(prompt("1. rand 2.Tự chọn"));
+            if (sel==1){
+                addrand();
+            }else if(sel==2){
+                click();
+            }
+        }
+        select();
+ </script>
+</html>

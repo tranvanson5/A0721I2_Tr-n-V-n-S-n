@@ -5,11 +5,59 @@
     <title>Title</title>
 </head>
 <body>
-
+    <div>
+        <table border="1px">
+            <tr>
+                <td>Món</td>
+                <td>Giá</td>
+            </tr>
+            <tr>
+                <td>1.Cafe</td>
+                <td>5</td>
+            </tr>
+            <tr>
+                <td>2.Cam vắt</td>
+                <td>10</td>
+            </tr>
+            <tr>
+                <td>3.Nước ép cà rốt</td>
+                <td>15</td>
+            </tr>
+            <tr>
+                <td>4.Nước ép cà chua</td>
+                <td> 5</td>
+            </tr>
+            <tr>
+                <td>5.Nước lọc</td>
+                <td>6</td>
+            </tr>
+            <tr>
+                <td>6.Nước dừa</td>
+                <td>7</td>
+            </tr>
+            <tr>
+                <td colspan="2">7.Thoát</td>
+            </tr>
+        </table>
+    </div>
+    <div><button onclick="oder()">Oder</button></div>
 </body>
 <script>
-    a=[0,1,2,3,4,5,6];
-    b=['0','Cafe','Cam vắt','Nước ép cà rốt','Nước ép cà chua','Nước lọc','Nước dừa'];
-
+    function oder(){
+        a = ['0', 'Cafe', 'Cam vắt', 'Nước ép cà rốt', 'Nước ép cà chua', 'Nước lọc', 'Nước dừa'];
+        b = [0, 5, 10, 15, 5, 6, 7]
+        str = '';
+        sum = 0;
+        do {
+            sp = parseInt(prompt('nhập sản phẩm'));
+            if (sp >= 1 && sp <= 6) {
+                sl = parseInt(prompt('nhập số lượng'));
+                str += a[sp] + "   " + b[sp] + "x" + sl + "<br>";
+                sum += (b[sp] * sl);
+            }
+        } while (sp != 7);
+        document.write(str);
+        document.write("Thành tiền: " + sum);
+    }
 </script>
 </html>

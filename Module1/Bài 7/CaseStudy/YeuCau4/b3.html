@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+</body>
+<script>
+    a=[];
+     n=10;
+     m=10;
+    let min=10000;
+    let max=0;
+    for(i=0;i<m;i++) {
+        a[i] = new Array;
+        for (j = 0; j < n; j++) {
+            a[i][j] = parseInt(Math.random() * 10);
+            document.write(a[i][j] + "    ");
+            if(a[i][j]>=max){
+                max=a[i][j];
+            } else {
+                if(a[i][j]<=min){
+                    min=a[i][j];
+                }
+            }
+        }
+        document.write("<br>");
+    }
+    document.write("Max: "+max+"<br>Min: "+min);
+</script>
+</html>

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+</body>
+<script>
+    salary= parseFloat(prompt("nhập số lương: "));
+    if(salary>=15000000){
+        wage = salary - salary * 20 / 100;
+    }else if(salary>=7000000){
+        wage = salary - salary * 10 / 100;
+    } else{
+        wage = salary - salary * 5 / 100;
+    }
+    alert("số tiền lương thực sự mà nhân viên đó nhận được: "+ wage);
+</script>
+</html>
