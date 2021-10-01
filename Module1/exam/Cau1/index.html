@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+</body>
+<script>
+    let n=6;
+    arr=[];
+    sum=0;
+    count=0;
+    for (i=0;i<n;i++){
+        arr[i]=parseInt(prompt("nhập phần tử thứ arr["+i+"]"));
+    }
+    for (i=0;i<n;i++){
+        if (i%2==0&&arr[i]%2!=0){
+                sum=sum+arr[i];
+                count++;
+        }
+    }
+    document.write("Kết quả sau khi thực hiện là:"+ (sum/count));
+</script>
+</html>

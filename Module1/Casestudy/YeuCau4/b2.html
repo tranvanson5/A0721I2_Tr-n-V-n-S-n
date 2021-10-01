@@ -6,17 +6,17 @@
 </head>
 <body>
 <script>
-    s = "cabca";
-
-    let count =s.length;
-    for (let i = 0; i < s.length; i++) {
-        for(let j=i+1;j<s.length;j++){
-            if(s[i]==s[j]){
-                count--;
+    function differentSymbolsNaive(str){
+        arr=[];
+        for (let i=0;i<str.length;i++){
+            if (arr.indexOf(str.charAt(i))==-1){
+                arr.push(str.charAt(i));
             }
         }
+        return arr.length;
     }
-    document.write("differentSymbolsNaive(s) = "+count);
+    let str=prompt("nhập chuỗi");
+    document.write("có "+differentSymbolsNaive(str)+"kí tự");
 </script>
 </body>
 </html>
