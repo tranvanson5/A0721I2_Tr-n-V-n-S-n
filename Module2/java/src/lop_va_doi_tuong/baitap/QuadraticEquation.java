@@ -3,23 +3,43 @@ package lop_va_doi_tuong.baitap;
 import java.util.Scanner;
 
 public class QuadraticEquation {
-    double a,b,c;
+    private double a,b,c;
 
     public QuadraticEquation(double a, double b, double c) {
         this.a = a;
         this.b = b;
         this.c = c;
     }
+
+    public double getA() {
+        return a;
+    }
+
+    public double getB() {
+        return b;
+    }
+
+    public double getC() {
+        return c;
+    }
+
+    public double getDiscriminant(){
+        return this.b*this.b-4*this.a*this.c;
+    }
+    public double getRoot1(){
+        return (-(b+Math.sqrt(this.getDiscriminant()))/2/a);
+    }
+    public double getRoot2(){
+        return (-(b-Math.sqrt(this.getDiscriminant()))/2/a);
+    }
     public void getRefult(){
-        double delta;
-        delta=this.b*this.b-4*this.a*this.c;
-        if(delta<0){
+        if(getDiscriminant()<0){
             System.out.println("vô nghiệm");
-        } else if(delta==0){
+        } else if(getDiscriminant()==0){
             System.out.println("Pt 1 nghiệm: x="+ -(b/2/a));
         } else {
-            System.out.println("x1= "+(-(b+Math.sqrt(delta))/2/a));
-            System.out.println("x1= "+(-(b-Math.sqrt(delta))/2/a));
+            System.out.println("x1= "+this.getRoot1());
+            System.out.println("x2= "+this.getRoot2());
         }
     }
     public String display() {

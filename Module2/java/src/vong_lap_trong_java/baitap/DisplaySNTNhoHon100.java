@@ -13,14 +13,14 @@ public class DisplaySNTNhoHon100 {
         }
         else return false;
     }
-    static void printout(int n){
+    static void printout(){
         for(int i=0;i<100;i++){
-            if (check(i)==true){
+            if (check(i)){
                 System.out.println(i);
             }
         }
     }
     public static void main(String[] args) {
-        printout(100);
+        printout();
     }
 }

@@ -13,11 +13,11 @@ public class Display20SNT {
         }
         else return false;
     }
-    static void printout(int n){
+    static void printout(){
         int count=0;
         int i=0;
-        while(count!=5){
-            if (check(i)==true){
+        while(count!=20){
+            if (check(i)){
                 System.out.println(i);
                 count++;
             }
@@ -25,6 +25,6 @@ public class Display20SNT {
         }
     }
     public static void main(String[] args) {
-        printout(20);
+        printout();
     }
 }

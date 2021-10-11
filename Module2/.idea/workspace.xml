@@ -20,14 +20,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d4ed845-14e8-4802-9a50-a0eeabfb36b8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/lop_va_doi_tuong/baitap/QuadraticEquation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/mang/baitap/DeleteArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/mang/baitap/MinArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/lop_va_doi_tuong/baitap/Fan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/lop_va_doi_tuong/baitap/StopWatch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/introduction_to_java/baitap/DocSoThanhChu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/mang/thuchanh/SearchArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java/META-INF/java.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java/introduction_to_java/baitap/DocSoThanhChu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/lop_va_doi_tuong/baitap/QuadraticEquation.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/lop_va_doi_tuong/baitap/QuadraticEquation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/mang/baitap/InsertArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/mang/baitap/InsertArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/mang/baitap/MaxMang2Chieu.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/mang/baitap/MaxMang2Chieu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/vong_lap_trong_java/baitap/Display20SNT.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/vong_lap_trong_java/baitap/Display20SNT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/vong_lap_trong_java/baitap/DisplaySNTNhoHon100.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/vong_lap_trong_java/baitap/DisplaySNTNhoHon100.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/lop_va_doi_tuong/baitap/QuadraticEquation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/lop_va_doi_tuong/baitap/QuadraticEquation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/mang/baitap/InsertArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/mang/baitap/InsertArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/mang/baitap/MaxMang2Chieu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/mang/baitap/MaxMang2Chieu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/vong_lap_trong_java/baitap/Display20SNT.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/vong_lap_trong_java/baitap/Display20SNT.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/vong_lap_trong_java/baitap/DisplaySNTNhoHon100.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/vong_lap_trong_java/baitap/DisplaySNTNhoHon100.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +42,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
+        <option value="HTML File" />
         <option value="Class" />
       </list>
     </option>
@@ -66,6 +73,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -82,13 +90,13 @@
       <recent name="mang.baitap" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.QuadraticEquation">
-    <configuration name="DocSoThanhChu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="introduction_to_java.baitap.DocSoThanhChu" />
+  <component name="RunManager" selected="Application.Fan">
+    <configuration name="Fan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lop_va_doi_tuong.baitap.Fan" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="introduction_to_java.baitap.*" />
+          <option name="PATTERN" value="lop_va_doi_tuong.baitap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,19 +130,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mang.baitap.MinArray" />
-      <module name="java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="mang.baitap.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="QuadraticEquation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lop_va_doi_tuong.baitap.QuadraticEquation" />
       <module name="java" />
@@ -148,13 +143,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StopWatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lop_va_doi_tuong.baitap.StopWatch" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lop_va_doi_tuong.baitap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Fan" />
+        <item itemvalue="Application.StopWatch" />
         <item itemvalue="Application.QuadraticEquation" />
-        <item itemvalue="Application.MinArray" />
         <item itemvalue="Application.InsertArray" />
         <item itemvalue="Application.MaxMang2Chieu" />
-        <item itemvalue="Application.DocSoThanhChu" />
       </list>
     </recent_temporary>
   </component>
@@ -178,6 +186,10 @@
       <workItem from="1633583489057" duration="5000" />
       <workItem from="1633602812494" duration="12000" />
       <workItem from="1633678633070" duration="3761000" />
+      <workItem from="1633683127884" duration="3000" />
+      <workItem from="1633690187089" duration="5052000" />
+      <workItem from="1633886435587" duration="1163000" />
+      <workItem from="1633917982485" duration="11697000" />
     </task>
     <servers />
   </component>
