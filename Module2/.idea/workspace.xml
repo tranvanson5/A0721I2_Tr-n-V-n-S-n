@@ -20,19 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d4ed845-14e8-4802-9a50-a0eeabfb36b8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/lop_va_doi_tuong/baitap/Fan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/lop_va_doi_tuong/baitap/StopWatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/access_modifier/baitap/static_method/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/access_modifier/baitap/static_method/TestCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/access_modifier/baitap/static_property/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/access_modifier/baitap/static_property/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/access_modifier/thuchanh/static_method/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/access_modifier/thuchanh/static_method/TestStaticMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/access_modifier/thuchanh/static_property/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/access_modifier/thuchanh/static_property/TestStaticProperty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/introduction_to_java/baitap/DocSoThanhChu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/lop_va_doi_tuong/baitap/QuadraticEquation.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/lop_va_doi_tuong/baitap/QuadraticEquation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/mang/baitap/InsertArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/mang/baitap/InsertArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/mang/baitap/MaxMang2Chieu.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/mang/baitap/MaxMang2Chieu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/vong_lap_trong_java/baitap/Display20SNT.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/vong_lap_trong_java/baitap/Display20SNT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/vong_lap_trong_java/baitap/DisplaySNTNhoHon100.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/vong_lap_trong_java/baitap/DisplaySNTNhoHon100.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java/lop_va_doi_tuong/baitap/QuadraticEquation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/lop_va_doi_tuong/baitap/QuadraticEquation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java/mang/baitap/InsertArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/mang/baitap/InsertArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java/mang/baitap/MaxMang2Chieu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/mang/baitap/MaxMang2Chieu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java/vong_lap_trong_java/baitap/Display20SNT.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/vong_lap_trong_java/baitap/Display20SNT.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java/vong_lap_trong_java/baitap/DisplaySNTNhoHon100.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/vong_lap_trong_java/baitap/DisplaySNTNhoHon100.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +41,7 @@
       <list>
         <option value="Kotlin Class" />
         <option value="HTML File" />
+        <option value="JavaFXApplication" />
         <option value="Class" />
       </list>
     </option>
@@ -90,7 +88,7 @@
       <recent name="mang.baitap" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Fan">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="Fan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lop_va_doi_tuong.baitap.Fan" />
       <module name="java" />
@@ -104,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InsertArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mang.baitap.InsertArray" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="access_modifier.baitap.static_property.Test" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mang.baitap.*" />
+          <option name="PATTERN" value="access_modifier.baitap.static_property.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxMang2Chieu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mang.baitap.MaxMang2Chieu" />
+    <configuration name="TestCircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="access_modifier.baitap.static_method.TestCircle" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="mang.baitap.*" />
+          <option name="PATTERN" value="access_modifier.baitap.static_method.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuadraticEquation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lop_va_doi_tuong.baitap.QuadraticEquation" />
+    <configuration name="TestStaticMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="access_modifier.thuchanh.static_method.TestStaticMethod" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lop_va_doi_tuong.baitap.*" />
+          <option name="PATTERN" value="access_modifier.thuchanh.static_method.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StopWatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lop_va_doi_tuong.baitap.StopWatch" />
+    <configuration name="TestStaticProperty" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="access_modifier.thuchanh.static_property.TestStaticProperty" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lop_va_doi_tuong.baitap.*" />
+          <option name="PATTERN" value="access_modifier.thuchanh.static_property.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.TestCircle" />
+        <item itemvalue="Application.TestStaticProperty" />
+        <item itemvalue="Application.TestStaticMethod" />
         <item itemvalue="Application.Fan" />
-        <item itemvalue="Application.StopWatch" />
-        <item itemvalue="Application.QuadraticEquation" />
-        <item itemvalue="Application.InsertArray" />
-        <item itemvalue="Application.MaxMang2Chieu" />
       </list>
     </recent_temporary>
   </component>
@@ -190,6 +188,7 @@
       <workItem from="1633690187089" duration="5052000" />
       <workItem from="1633886435587" duration="1163000" />
       <workItem from="1633917982485" duration="11697000" />
+      <workItem from="1633940359980" duration="5181000" />
     </task>
     <servers />
   </component>
