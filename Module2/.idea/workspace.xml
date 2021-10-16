@@ -20,15 +20,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d4ed845-14e8-4802-9a50-a0eeabfb36b8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/access_modifier/baitap/static_method/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/access_modifier/baitap/static_method/TestCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/access_modifier/baitap/static_property/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/access_modifier/baitap/static_property/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/access_modifier/thuchanh/static_method/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/access_modifier/thuchanh/static_method/TestStaticMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/access_modifier/thuchanh/static_property/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/access_modifier/thuchanh/static_property/TestStaticProperty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/introduction_to_java/baitap/DocSoThanhChu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/ke_thua/baitap/circle/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/ke_thua/baitap/circle/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/ke_thua/baitap/circle/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/ke_thua/baitap/point2d_point3d/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/ke_thua/baitap/point2d_point3d/Point2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/ke_thua/baitap/point2d_point3d/Point3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/ke_thua/baitap/point_moveablepoint/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/ke_thua/thuchanh/Shape/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/ke_thua/thuchanh/Shape/CircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/ke_thua/thuchanh/Shape/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/ke_thua/thuchanh/Shape/RectangleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/ke_thua/thuchanh/Shape/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/ke_thua/thuchanh/Shape/ShapeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/ke_thua/thuchanh/Shape/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/ke_thua/thuchanh/Shape/SquareTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,13 +94,13 @@
       <recent name="mang.baitap" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="Fan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lop_va_doi_tuong.baitap.Fan" />
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="CircleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ke_thua.thuchanh.Shape.CircleTest" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lop_va_doi_tuong.baitap.*" />
+          <option name="PATTERN" value="ke_thua.thuchanh.Shape.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="access_modifier.baitap.static_property.Test" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ke_thua.baitap.point2d_point3d.Main" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="access_modifier.baitap.static_property.*" />
+          <option name="PATTERN" value="ke_thua.baitap.point2d_point3d.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="access_modifier.baitap.static_method.TestCircle" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ke_thua.baitap.point_moveablepoint.Main" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="access_modifier.baitap.static_method.*" />
+          <option name="PATTERN" value="ke_thua.baitap.point_moveablepoint.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestStaticMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="access_modifier.thuchanh.static_method.TestStaticMethod" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ke_thua.baitap.circle.Main" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="access_modifier.thuchanh.static_method.*" />
+          <option name="PATTERN" value="ke_thua.baitap.circle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,12 +147,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestStaticProperty" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="access_modifier.thuchanh.static_property.TestStaticProperty" />
+    <configuration name="SquareTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ke_thua.thuchanh.Shape.SquareTest" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="access_modifier.thuchanh.static_property.*" />
+          <option name="PATTERN" value="ke_thua.thuchanh.Shape.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.TestCircle" />
-        <item itemvalue="Application.TestStaticProperty" />
-        <item itemvalue="Application.TestStaticMethod" />
-        <item itemvalue="Application.Fan" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.CircleTest" />
+        <item itemvalue="Application.SquareTest" />
       </list>
     </recent_temporary>
   </component>
@@ -189,6 +195,9 @@
       <workItem from="1633886435587" duration="1163000" />
       <workItem from="1633917982485" duration="11697000" />
       <workItem from="1633940359980" duration="5181000" />
+      <workItem from="1634019722146" duration="1439000" />
+      <workItem from="1634297254390" duration="5835000" />
+      <workItem from="1634360288217" duration="12801000" />
     </task>
     <servers />
   </component>
