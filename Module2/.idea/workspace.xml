@@ -20,34 +20,61 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d4ed845-14e8-4802-9a50-a0eeabfb36b8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/ke_thua/baitap/circle/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/ke_thua/baitap/circle/Cylinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/ke_thua/baitap/circle/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/ke_thua/baitap/point2d_point3d/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/ke_thua/baitap/point2d_point3d/Point2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/ke_thua/baitap/point2d_point3d/Point3D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/ke_thua/baitap/point_moveablepoint/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/ke_thua/thuchanh/Shape/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/ke_thua/thuchanh/Shape/CircleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/ke_thua/thuchanh/Shape/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/ke_thua/thuchanh/Shape/RectangleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/ke_thua/thuchanh/Shape/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/ke_thua/thuchanh/Shape/ShapeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/ke_thua/thuchanh/Shape/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/ke_thua/thuchanh/Shape/SquareTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/abstract_and_interface/baitap/colorable/IColorable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/abstract_and_interface/baitap/colorable/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/abstract_and_interface/baitap/colorable/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/abstract_and_interface/baitap/colorable/SquareTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/abstract_and_interface/baitap/resizeable/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/abstract_and_interface/baitap/resizeable/CircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/abstract_and_interface/baitap/resizeable/IResizeable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/abstract_and_interface/baitap/resizeable/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/abstract_and_interface/baitap/resizeable/RectangleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/abstract_and_interface/baitap/resizeable/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/abstract_and_interface/baitap/resizeable/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/abstract_and_interface/baitap/resizeable/SquareTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/abstract_and_interface/thuchanh/circle_comparator/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/abstract_and_interface/thuchanh/circle_comparator/CircleComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/abstract_and_interface/thuchanh/circle_comparator/CircleComparatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/abstract_and_interface/thuchanh/circle_comparator/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/abstract_and_interface/thuchanh/comparable/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/abstract_and_interface/thuchanh/comparable/ComparableCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/abstract_and_interface/thuchanh/comparable/ComparableCircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/abstract_and_interface/thuchanh/comparable/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/clean_code/baitap/refactoring/TennisGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/clean_code/baitap/refactoring/TennisGameTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/clean_code/thuchanh/doiten_tachhang/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/clean_code/thuchanh/doiten_tachhang/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/clean_code/thuchanh/tachbien/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/clean_code/thuchanh/tachbien/FizzBuzzTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/clean_code/thuchanh/tachhang/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/clean_code/thuchanh/tachhang/CylinderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/A0721I2_TranVanSon.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/A0721I2_TranVanSon.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Module2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Module2.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java/java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/ke_thua/baitap/point_moveablepoint/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/ke_thua/baitap/point_moveablepoint/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/ke_thua/baitap/point_moveablepoint/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/ke_thua/baitap/point_moveablepoint/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/ke_thua/baitap/point_moveablepoint/MoveablePoint.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/ke_thua/baitap/point_moveablepoint/MoveablePoint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/ke_thua/baitap/point_moveablepoint/Point.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/ke_thua/baitap/point_moveablepoint/Point.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="HTML File" />
         <option value="JavaFXApplication" />
+        <option value="Kotlin Interface" />
+        <option value="Kotlin Class" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -71,18 +98,25 @@
     </option>
   </component>
   <component name="ProjectId" id="1yocnl2YM5bI9xu5lBXBFmSCVtI" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/java/src/b7/baitap/colorable" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -91,82 +125,120 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="ke_thua.baitap.point_moveablepoint" />
+      <recent name="b7.thuchanh.circle_comparator" />
       <recent name="mang.baitap" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\drive\Desktop\codegym\A0721I2_TranVanSon\Module2\java\src\b7\baitap\colorable" />
+    </key>
+    <key name="IntroduceConstantDialog.RECENTS_KEY">
+      <recent name="clean_code.thuchanh.doiten_tachbien.Calculator" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="b7.baitap.resizeable" />
+      <recent name="b7.thuchanh.circle_comparator" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
-    <configuration name="CircleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ke_thua.thuchanh.Shape.CircleTest" />
-      <module name="java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ke_thua.thuchanh.Shape.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ke_thua.baitap.point2d_point3d.Main" />
-      <module name="java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ke_thua.baitap.point2d_point3d.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ke_thua.baitap.point_moveablepoint.Main" />
-      <module name="java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ke_thua.baitap.point_moveablepoint.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ke_thua.baitap.circle.Main" />
-      <module name="java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ke_thua.baitap.circle.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.TennisGameTest">
     <configuration name="SquareTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ke_thua.thuchanh.Shape.SquareTest" />
+      <option name="MAIN_CLASS_NAME" value="abstract_and_interface.baitap.colorable.SquareTest" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ke_thua.thuchanh.Shape.*" />
+          <option name="PATTERN" value="abstract_and_interface.baitap.colorable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="clean_code.thuchanh.doiten_tachhang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="clean_code.thuchanh.doiten_tachhang" />
+      <option name="MAIN_CLASS_NAME" value="clean_code.thuchanh.doiten_tachhang.CalculatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest.testCalculateDiv" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="clean_code.thuchanh.doiten_tachhang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="clean_code.thuchanh.doiten_tachhang" />
+      <option name="MAIN_CLASS_NAME" value="clean_code.thuchanh.doiten_tachhang.CalculatorTest" />
+      <option name="METHOD_NAME" value="testCalculateDiv" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest.testCalculateDivByZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="clean_code.thuchanh.doiten_tachhang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="clean_code.thuchanh.doiten_tachhang" />
+      <option name="MAIN_CLASS_NAME" value="clean_code.thuchanh.doiten_tachhang.CalculatorTest" />
+      <option name="METHOD_NAME" value="testCalculateDivByZero" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CylinderTest.testGetVolume0And0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="clean_code.thuchanh.tachhang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="clean_code.thuchanh.tachhang" />
+      <option name="MAIN_CLASS_NAME" value="clean_code.thuchanh.tachhang.CylinderTest" />
+      <option name="METHOD_NAME" value="testGetVolume0And0" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TennisGameTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="clean_code.baitap.refactoring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="clean_code.baitap.refactoring" />
+      <option name="MAIN_CLASS_NAME" value="clean_code.baitap.refactoring.TennisGameTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.CircleTest" />
-        <item itemvalue="Application.SquareTest" />
+        <item itemvalue="JUnit.TennisGameTest" />
+        <item itemvalue="JUnit.CylinderTest.testGetVolume0And0" />
+        <item itemvalue="JUnit.CalculatorTest" />
+        <item itemvalue="JUnit.CalculatorTest.testCalculateDiv" />
+        <item itemvalue="JUnit.CalculatorTest.testCalculateDivByZero" />
       </list>
     </recent_temporary>
   </component>
@@ -198,6 +270,15 @@
       <workItem from="1634019722146" duration="1439000" />
       <workItem from="1634297254390" duration="5835000" />
       <workItem from="1634360288217" duration="12801000" />
+      <workItem from="1634718985306" duration="28000" />
+      <workItem from="1634719236258" duration="1035000" />
+      <workItem from="1634888293286" duration="1495000" />
+      <workItem from="1634889827357" duration="30000" />
+      <workItem from="1634890764161" duration="1719000" />
+      <workItem from="1634893278634" duration="4787000" />
+      <workItem from="1635037994620" duration="864000" />
+      <workItem from="1635041584701" duration="11386000" />
+      <workItem from="1635064955879" duration="5010000" />
     </task>
     <servers />
   </component>
@@ -215,6 +296,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

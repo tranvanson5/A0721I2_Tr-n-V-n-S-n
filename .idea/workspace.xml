@@ -11,28 +11,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="46ff8ae0-9e07-46b2-8e66-dc39374971c2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Module1/Bài 7/CaseStudy/YeuCau1/b1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module1/Bài 7/CaseStudy/YeuCau1/b2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module1/Bài 7/CaseStudy/YeuCau1/b3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module1/Bài 7/CaseStudy/YeuCau1/b4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module1/Bài 7/CaseStudy/YeuCau2/b1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module1/Bài 7/CaseStudy/YeuCau2/b2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module1/Bài 7/CaseStudy/YeuCau3/b1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module1/Bài 7/CaseStudy/YeuCau3/b2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module1/Bài 7/CaseStudy/YeuCau3/b3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module1/Bài 7/CaseStudy/YeuCau3/b4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module1/Bài 7/CaseStudy/YeuCau3/b5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module1/Bài 7/CaseStudy/YeuCau4/b1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module1/Bài 7/CaseStudy/YeuCau4/b2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module1/Bài 7/CaseStudy/YeuCau4/b3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module1/Bài 7/CaseStudy/YeuCau5/b1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module1/Bài 7/CaseStudy/YeuCau5/b2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module1/Bài 7/CaseStudy/YeuCau5/b3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module1/Bài 7/CaseStudy/YeuCau6/b1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module1/Bài 7/CaseStudy/YeuCau7/YeuCau7.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module1/Casestudy/YeuCau2/b2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Module1/Casestudy/YeuCau2/b2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module1/Casestudy/YeuCau4/b2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Module1/Casestudy/YeuCau4/b2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module1/Casestudy/YeuCau4/b3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Module1/Casestudy/YeuCau4/b3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/A0721I2_TranVanSon.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/A0721I2_TranVanSon.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2/java/src/ke_thua/baitap/point_moveablepoint/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module2/java/src/ke_thua/baitap/point_moveablepoint/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,35 +29,43 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Module1" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1yoWANf6WpGQRlShg0DKxEeygwh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Module2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="A0721I2_TranVanSon" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Main" />
-      </list>
-    </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -87,11 +77,17 @@
       <option name="presentableId" value="Default" />
       <updated>1632918276202</updated>
       <workItem from="1632918280566" duration="2122000" />
+      <workItem from="1634704516991" duration="36000" />
+      <workItem from="1634712962414" duration="233000" />
+      <workItem from="1634713252454" duration="207000" />
+      <workItem from="1634715939644" duration="188000" />
+      <workItem from="1634716258956" duration="40000" />
+      <workItem from="1634718030249" duration="942000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -103,27 +99,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="463" y="115" key="FileChooserDialogImpl" timestamp="1632921481210">
-      <screen x="0" y="0" width="1366" height="720" />
-    </state>
-    <state x="463" y="115" key="FileChooserDialogImpl/0.0.1366.720@0.0.1366.720" timestamp="1632921481210" />
-    <state width="1323" height="176" key="GridCell.Tab.0.bottom" timestamp="1632921482626">
-      <screen x="0" y="0" width="1366" height="720" />
-    </state>
-    <state width="1323" height="176" key="GridCell.Tab.0.bottom/0.0.1366.720@0.0.1366.720" timestamp="1632921482626" />
-    <state width="1323" height="176" key="GridCell.Tab.0.center" timestamp="1632921482626">
-      <screen x="0" y="0" width="1366" height="720" />
-    </state>
-    <state width="1323" height="176" key="GridCell.Tab.0.center/0.0.1366.720@0.0.1366.720" timestamp="1632921482626" />
-    <state width="1323" height="176" key="GridCell.Tab.0.left" timestamp="1632921482626">
-      <screen x="0" y="0" width="1366" height="720" />
-    </state>
-    <state width="1323" height="176" key="GridCell.Tab.0.left/0.0.1366.720@0.0.1366.720" timestamp="1632921482626" />
-    <state width="1323" height="176" key="GridCell.Tab.0.right" timestamp="1632921482626">
-      <screen x="0" y="0" width="1366" height="720" />
-    </state>
-    <state width="1323" height="176" key="GridCell.Tab.0.right/0.0.1366.720@0.0.1366.720" timestamp="1632921482626" />
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
