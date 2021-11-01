@@ -20,44 +20,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d4ed845-14e8-4802-9a50-a0eeabfb36b8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/abstract_and_interface/baitap/colorable/IColorable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/abstract_and_interface/baitap/colorable/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/abstract_and_interface/baitap/colorable/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/abstract_and_interface/baitap/colorable/SquareTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/abstract_and_interface/baitap/resizeable/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/abstract_and_interface/baitap/resizeable/CircleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/abstract_and_interface/baitap/resizeable/IResizeable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/abstract_and_interface/baitap/resizeable/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/abstract_and_interface/baitap/resizeable/RectangleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/abstract_and_interface/baitap/resizeable/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/abstract_and_interface/baitap/resizeable/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/abstract_and_interface/baitap/resizeable/SquareTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/abstract_and_interface/thuchanh/circle_comparator/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/abstract_and_interface/thuchanh/circle_comparator/CircleComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/abstract_and_interface/thuchanh/circle_comparator/CircleComparatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/abstract_and_interface/thuchanh/circle_comparator/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/abstract_and_interface/thuchanh/comparable/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/abstract_and_interface/thuchanh/comparable/ComparableCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/abstract_and_interface/thuchanh/comparable/ComparableCircleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/abstract_and_interface/thuchanh/comparable/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/clean_code/baitap/refactoring/TennisGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/clean_code/baitap/refactoring/TennisGameTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/clean_code/thuchanh/doiten_tachhang/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/clean_code/thuchanh/doiten_tachhang/CalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/clean_code/thuchanh/tachbien/FizzBuzz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/clean_code/thuchanh/tachbien/FizzBuzzTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/clean_code/thuchanh/tachhang/Cylinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/clean_code/thuchanh/tachhang/CylinderTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/A0721I2_TranVanSon.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/A0721I2_TranVanSon.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Module2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Module2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/Collection_Framework/baitap/Practice/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/Collection_Framework/baitap/Practice/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/Collection_Framework/baitap/Practice/ProductManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/Collection_Framework/thuchanh/Comparable_Comparator/AgeComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/Collection_Framework/thuchanh/Comparable_Comparator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/Collection_Framework/thuchanh/Comparable_Comparator/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/Collection_Framework/thuchanh/HashMap_HashSet/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/Collection_Framework/thuchanh/HashMap_HashSet/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/Collection_Framework/thuchanh/HashMap_LinkedHashMap_TreeMap/TestMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/Stack_Queue/baitap/daomangStack/Reversse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/Stack_Queue/baitap/daomangStack/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/Stack_Queue/baitap/demsolamxuathien/CountChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/Stack_Queue/thuchanh/queue/LinkedListQueueClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/Stack_Queue/thuchanh/queue/MyLinkedListQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/Stack_Queue/thuchanh/queue/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/Stack_Queue/thuchanh/stack/GenericStackClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/Stack_Queue/thuchanh/stack/MyGenericStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/list/baitap/ArrayList/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/list/baitap/ArrayList/MyListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/list/baitap/LinkList/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/list/baitap/LinkList/MyLinkedListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/list/thuchanh/linkedlist/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/list/thuchanh/linkedlist/MyLinkedListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/list/thuchanh/list/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/list/thuchanh/list/MyListTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java/java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/ke_thua/baitap/point_moveablepoint/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/ke_thua/baitap/point_moveablepoint/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java/ke_thua/baitap/point_moveablepoint/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/ke_thua/baitap/point_moveablepoint/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java/ke_thua/baitap/point_moveablepoint/MoveablePoint.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/ke_thua/baitap/point_moveablepoint/MoveablePoint.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java/ke_thua/baitap/point_moveablepoint/Point.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/ke_thua/baitap/point_moveablepoint/Point.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/clean_code/baitap/refactoring/TennisGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/clean_code/baitap/refactoring/TennisGame.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,8 +62,8 @@
         <option value="HTML File" />
         <option value="JavaFXApplication" />
         <option value="Kotlin Interface" />
-        <option value="Kotlin Class" />
         <option value="Interface" />
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -116,7 +105,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/java/src/b7/baitap/colorable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -135,18 +124,21 @@
     <key name="IntroduceConstantDialog.RECENTS_KEY">
       <recent name="clean_code.thuchanh.doiten_tachbien.Calculator" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="list" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="b7.baitap.resizeable" />
       <recent name="b7.thuchanh.circle_comparator" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TennisGameTest">
-    <configuration name="SquareTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="abstract_and_interface.baitap.colorable.SquareTest" />
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="CountChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack_Queue.baitap.demsolamxuathien.CountChar" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="abstract_and_interface.baitap.colorable.*" />
+          <option name="PATTERN" value="Stack_Queue.baitap.demsolamxuathien.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,91 +146,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collection_Framework.thuchanh.Comparable_Comparator.Main" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="clean_code.thuchanh.doiten_tachhang.*" />
+          <option name="PATTERN" value="Collection_Framework.thuchanh.Comparable_Comparator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="clean_code.thuchanh.doiten_tachhang" />
-      <option name="MAIN_CLASS_NAME" value="clean_code.thuchanh.doiten_tachhang.CalculatorTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculatorTest.testCalculateDiv" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collection_Framework.baitap.Practice.Main" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="clean_code.thuchanh.doiten_tachhang.*" />
+          <option name="PATTERN" value="Collection_Framework.baitap.Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="clean_code.thuchanh.doiten_tachhang" />
-      <option name="MAIN_CLASS_NAME" value="clean_code.thuchanh.doiten_tachhang.CalculatorTest" />
-      <option name="METHOD_NAME" value="testCalculateDiv" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculatorTest.testCalculateDivByZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collection_Framework.thuchanh.HashMap_HashSet.Main" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="clean_code.thuchanh.doiten_tachhang.*" />
+          <option name="PATTERN" value="Collection_Framework.thuchanh.HashMap_HashSet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="clean_code.thuchanh.doiten_tachhang" />
-      <option name="MAIN_CLASS_NAME" value="clean_code.thuchanh.doiten_tachhang.CalculatorTest" />
-      <option name="METHOD_NAME" value="testCalculateDivByZero" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CylinderTest.testGetVolume0And0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collection_Framework.thuchanh.HashMap_LinkedHashMap_TreeMap.TestMap" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="clean_code.thuchanh.tachhang.*" />
+          <option name="PATTERN" value="Collection_Framework.thuchanh.HashMap_LinkedHashMap_TreeMap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="clean_code.thuchanh.tachhang" />
-      <option name="MAIN_CLASS_NAME" value="clean_code.thuchanh.tachhang.CylinderTest" />
-      <option name="METHOD_NAME" value="testGetVolume0And0" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TennisGameTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="clean_code.baitap.refactoring.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="clean_code.baitap.refactoring" />
-      <option name="MAIN_CLASS_NAME" value="clean_code.baitap.refactoring.TennisGameTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TennisGameTest" />
-        <item itemvalue="JUnit.CylinderTest.testGetVolume0And0" />
-        <item itemvalue="JUnit.CalculatorTest" />
-        <item itemvalue="JUnit.CalculatorTest.testCalculateDiv" />
-        <item itemvalue="JUnit.CalculatorTest.testCalculateDivByZero" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.TestMap" />
+        <item itemvalue="Application.CountChar" />
       </list>
     </recent_temporary>
   </component>
@@ -279,6 +245,16 @@
       <workItem from="1635037994620" duration="864000" />
       <workItem from="1635041584701" duration="11386000" />
       <workItem from="1635064955879" duration="5010000" />
+      <workItem from="1635158919885" duration="5228000" />
+      <workItem from="1635179632418" duration="12000" />
+      <workItem from="1635332662473" duration="2844000" />
+      <workItem from="1635493430482" duration="11614000" />
+      <workItem from="1635574355255" duration="19177000" />
+      <workItem from="1635654600736" duration="885000" />
+      <workItem from="1635665902259" duration="21594000" />
+      <workItem from="1635696227877" duration="510000" />
+      <workItem from="1635733323783" duration="6310000" />
+      <workItem from="1635752726624" duration="6986000" />
     </task>
     <servers />
   </component>
