@@ -20,33 +20,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d4ed845-14e8-4802-9a50-a0eeabfb36b8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/Collection_Framework/baitap/Practice/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/Collection_Framework/baitap/Practice/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/Collection_Framework/baitap/Practice/ProductManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/Collection_Framework/thuchanh/Comparable_Comparator/AgeComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/Collection_Framework/thuchanh/Comparable_Comparator/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/Collection_Framework/thuchanh/Comparable_Comparator/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/Collection_Framework/thuchanh/HashMap_HashSet/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/Collection_Framework/thuchanh/HashMap_HashSet/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/Collection_Framework/thuchanh/HashMap_LinkedHashMap_TreeMap/TestMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/Stack_Queue/baitap/daomangStack/Reversse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/Stack_Queue/baitap/daomangStack/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/Stack_Queue/baitap/demsolamxuathien/CountChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/Stack_Queue/thuchanh/queue/LinkedListQueueClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/Stack_Queue/thuchanh/queue/MyLinkedListQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/Stack_Queue/thuchanh/queue/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/Stack_Queue/thuchanh/stack/GenericStackClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/Stack_Queue/thuchanh/stack/MyGenericStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/list/baitap/ArrayList/MyList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/list/baitap/ArrayList/MyListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/list/baitap/LinkList/MyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/list/baitap/LinkList/MyLinkedListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/list/thuchanh/linkedlist/MyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/list/thuchanh/linkedlist/MyLinkedListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/list/thuchanh/list/MyList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/list/thuchanh/list/MyListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/ThuatToanSapXep/thuchanh/chen/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/ThuatToanSapXep/thuchanh/chonloc/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/ThuatToanSapXep/thuchanh/minhoachen/InsertionSortStep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/ThuatToanSapXep/thuchanh/minhoanoibot/BubbleSortByStep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/ThuatToanSapXep/thuchanh/noibot/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/thuattoantimkiem/thuchanh/binarysearch/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/xulingoailevadebug/baitap/TriangleCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/xulingoailevadebug/baitap/TriangleException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/xulingoailevadebug/thuchanh/ArrayExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/xulingoailevadebug/thuchanh/CalculationExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/xulingoailevadebug/thuchanh/LinearEquationResolver.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java/clean_code/baitap/refactoring/TennisGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/clean_code/baitap/refactoring/TennisGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/Collection_Framework/baitap/Practice/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/Collection_Framework/baitap/Practice/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/Collection_Framework/baitap/Practice/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/Collection_Framework/baitap/Practice/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/Collection_Framework/baitap/Practice/ProductManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/Collection_Framework/baitap/Practice/ProductManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/Collection_Framework/baitap/Practice/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/Collection_Framework/baitap/Practice/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/Collection_Framework/baitap/Practice/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/Collection_Framework/baitap/Practice/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/Collection_Framework/baitap/Practice/ProductManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/Collection_Framework/baitap/Practice/ProductManager.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +55,9 @@
         <option value="Kotlin Interface" />
         <option value="Interface" />
         <option value="Kotlin Class" />
+        <option value="AnnotationType" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -105,6 +98,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -114,6 +110,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="xulingoailevadebug.baitap" />
+      <recent name="Collection_Framework.baitap.Practice" />
       <recent name="ke_thua.baitap.point_moveablepoint" />
       <recent name="b7.thuchanh.circle_comparator" />
       <recent name="mang.baitap" />
@@ -121,24 +119,30 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\drive\Desktop\codegym\A0721I2_TranVanSon\Module2\java\src\b7\baitap\colorable" />
     </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="IntroduceConstantDialog.RECENTS_KEY">
       <recent name="clean_code.thuchanh.doiten_tachbien.Calculator" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="list" />
     </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="xulingoailevadebug.baitap" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="b7.baitap.resizeable" />
       <recent name="b7.thuchanh.circle_comparator" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
-    <configuration name="CountChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stack_Queue.baitap.demsolamxuathien.CountChar" />
+  <component name="RunManager" selected="Application.TriangleException">
+    <configuration name="ArrayExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xulingoailevadebug.thuchanh.ArrayExample" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Stack_Queue.baitap.demsolamxuathien.*" />
+          <option name="PATTERN" value="xulingoailevadebug.thuchanh.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,12 +150,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collection_Framework.thuchanh.Comparable_Comparator.Main" />
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thuattoantimkiem.thuchanh.binarysearch.BinarySearch" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Collection_Framework.thuchanh.Comparable_Comparator.*" />
+          <option name="PATTERN" value="thuattoantimkiem.thuchanh.binarysearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,12 +163,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collection_Framework.baitap.Practice.Main" />
+    <configuration name="CalculationExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xulingoailevadebug.thuchanh.CalculationExample" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Collection_Framework.baitap.Practice.*" />
+          <option name="PATTERN" value="xulingoailevadebug.thuchanh.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,12 +176,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collection_Framework.thuchanh.HashMap_HashSet.Main" />
+    <configuration name="LinearEquationResolver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xulingoailevadebug.thuchanh.LinearEquationResolver" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Collection_Framework.thuchanh.HashMap_HashSet.*" />
+          <option name="PATTERN" value="xulingoailevadebug.thuchanh.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -185,12 +189,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collection_Framework.thuchanh.HashMap_LinkedHashMap_TreeMap.TestMap" />
+    <configuration name="TriangleException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xulingoailevadebug.baitap.TriangleException" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Collection_Framework.thuchanh.HashMap_LinkedHashMap_TreeMap.*" />
+          <option name="PATTERN" value="xulingoailevadebug.baitap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -200,11 +204,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.TestMap" />
-        <item itemvalue="Application.CountChar" />
+        <item itemvalue="Application.TriangleException" />
+        <item itemvalue="Application.CalculationExample" />
+        <item itemvalue="Application.ArrayExample" />
+        <item itemvalue="Application.LinearEquationResolver" />
+        <item itemvalue="Application.BinarySearch" />
       </list>
     </recent_temporary>
   </component>
@@ -255,6 +259,10 @@
       <workItem from="1635696227877" duration="510000" />
       <workItem from="1635733323783" duration="6310000" />
       <workItem from="1635752726624" duration="6986000" />
+      <workItem from="1635760818945" duration="6282000" />
+      <workItem from="1636084716814" duration="9051000" />
+      <workItem from="1636110618410" duration="3975000" />
+      <workItem from="1636248000929" duration="2026000" />
     </task>
     <servers />
   </component>
@@ -283,6 +291,22 @@
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
           <option name="timeStamp" value="1" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../../../../../Program Files/Java/jdk1.8.0_311/src.zip!/java/lang/Object.java</url>
+          <line>235</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/src/xulingoailevadebug/thuchanh/LinearEquationResolver.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="a!=0" language="JAVA" />
+          <url>file://$PROJECT_DIR$/java/src/xulingoailevadebug/thuchanh/LinearEquationResolver.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
