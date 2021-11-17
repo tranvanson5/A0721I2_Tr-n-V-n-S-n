@@ -1,6 +1,6 @@
-package animal;
+package abstract_and_interface.thuchanh.lop_truu_tuong.animal;
 
-import edible.Edible;
+import abstract_and_interface.thuchanh.lop_truu_tuong.edible.Edible;
 
 public class AbstractAndInterfaceTests {
 

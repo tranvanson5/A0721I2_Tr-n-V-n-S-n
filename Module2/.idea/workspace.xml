@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -20,12 +23,50 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d4ed845-14e8-4802-9a50-a0eeabfb36b8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/xulingoailevadebug/baitap/IllegalTriangleException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/xulingoailevadebug/baitap/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WirteProduct.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/BinaryFile_Serialization/BaiTap/Product/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/BinaryFile_Serialization/BaiTap/Product/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/BinaryFile_Serialization/ThucHanh/CopyFile/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/BinaryFile_Serialization/ThucHanh/Student/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/BinaryFile_Serialization/ThucHanh/Student/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/CaseStudy/Task1/B1/House.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/CaseStudy/Task1/B1/HouseInfor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/CaseStudy/Task1/B1/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/CaseStudy/Task1/B1/RoomInfor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/CaseStudy/Task1/B1/Services.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/CaseStudy/Task1/B1/Villa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/CaseStudy/Task1/B1/VillaInfor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/CaseStudy/Task1/B1/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/IO_FileText/Baitap/CopyFile/CoppyFile.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/IO_FileText/Baitap/CopyFile/CoppyFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/IO_FileText/Baitap/CopyFile/text.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/IO_FileText/Baitap/DocFileCsv/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/IO_FileText/Baitap/DocFileCsv/data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/IO_FileText/ThucHanh/Sum/ReadFileExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/IO_FileText/ThucHanh/Sum/text.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/IO_FileText/ThucHanh/Wirte/ReadAndWriteFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/IO_FileText/ThucHanh/Wirte/numbers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/IO_FileText/ThucHanh/Wirte/result.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/products.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/xulingoailevadebug/baitap/TriangleCheck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/xulingoailevadebug/baitap/TriangleException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java/xulingoailevadebug/baitap/TriangleException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/abstract_and_interface/thuchanh/lop_truu_tuong/animal/AbstractAndInterfaceTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/abstract_and_interface/thuchanh/lop_truu_tuong/animal/AbstractAndInterfaceTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/abstract_and_interface/thuchanh/lop_truu_tuong/animal/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/abstract_and_interface/thuchanh/lop_truu_tuong/animal/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/abstract_and_interface/thuchanh/lop_truu_tuong/animal/Chicken.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/abstract_and_interface/thuchanh/lop_truu_tuong/animal/Chicken.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/abstract_and_interface/thuchanh/lop_truu_tuong/animal/Tiger.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/abstract_and_interface/thuchanh/lop_truu_tuong/animal/Tiger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/abstract_and_interface/thuchanh/lop_truu_tuong/edible/Edible.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/abstract_and_interface/thuchanh/lop_truu_tuong/edible/Edible.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/abstract_and_interface/thuchanh/lop_truu_tuong/fruit/Apple.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/abstract_and_interface/thuchanh/lop_truu_tuong/fruit/Apple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/abstract_and_interface/thuchanh/lop_truu_tuong/fruit/Fruit.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/abstract_and_interface/thuchanh/lop_truu_tuong/fruit/Fruit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/abstract_and_interface/thuchanh/lop_truu_tuong/fruit/Orange.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/abstract_and_interface/thuchanh/lop_truu_tuong/fruit/Orange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/animal/AbstractAndInterfaceTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/animal/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/animal/Chicken.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/animal/Tiger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/edible/Edible.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/fruit/Apple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/fruit/Fruit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/fruit/Orange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/xulingoailevadebug/baitap/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/xulingoailevadebug/baitap/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,11 +81,11 @@
       <list>
         <option value="JavaFXApplication" />
         <option value="Kotlin Interface" />
-        <option value="Interface" />
         <option value="Kotlin Class" />
         <option value="AnnotationType" />
         <option value="JUnit5 Test Class" />
         <option value="HTML File" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -89,7 +130,11 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/java/src/IO_FileText/ThucHanh/Baitap" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -98,22 +143,32 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="abstract_and_interface.thuchanh.lop_truu_tuong.animal" />
       <recent name="xulingoailevadebug.baitap" />
       <recent name="Collection_Framework.baitap.Practice" />
       <recent name="ke_thua.baitap.point_moveablepoint" />
       <recent name="b7.thuchanh.circle_comparator" />
-      <recent name="mang.baitap" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\drive\Desktop\Codegym\A0721I2_TranVanSon\Module2\java\src\IO_FileText\ThucHanh\Baitap" />
+      <recent name="C:\Users\drive\Desktop\Codegym\A0721I2_TranVanSon\Module2\java\src" />
       <recent name="C:\Users\drive\Desktop\codegym\A0721I2_TranVanSon\Module2\java\src\b7\baitap\colorable" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\drive\Desktop\Codegym\A0721I2_TranVanSon\Module2\java\src\IO_FileText\Baitap\CopyFile" />
+      <recent name="C:\Users\drive\Desktop\Codegym\A0721I2_TranVanSon\Module2\java\src\IO_FileText\ThucHanh\Wirte" />
+    </key>
     <key name="IntroduceConstantDialog.RECENTS_KEY">
       <recent name="clean_code.thuchanh.doiten_tachbien.Calculator" />
     </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="CaseStudy.Task1.B1" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="abstract_and_interface.thuchanh.lop_truu_tuong" />
       <recent name="list" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
@@ -124,13 +179,13 @@
       <recent name="b7.thuchanh.circle_comparator" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="ArrayExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="xulingoailevadebug.thuchanh.ArrayExample" />
+  <component name="RunManager" selected="Application.main">
+    <configuration name="AbstractAndInterfaceTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abstract_and_interface.thuchanh.lop_truu_tuong.animal.AbstractAndInterfaceTests" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="xulingoailevadebug.thuchanh.*" />
+          <option name="PATTERN" value="abstract_and_interface.thuchanh.lop_truu_tuong.animal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,12 +193,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculationExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="xulingoailevadebug.thuchanh.CalculationExample" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinaryFile_Serialization.ThucHanh.Student.Main" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="xulingoailevadebug.thuchanh.*" />
+          <option name="PATTERN" value="BinaryFile_Serialization.ThucHanh.Student.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,12 +206,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinearEquationResolver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="xulingoailevadebug.thuchanh.LinearEquationResolver" />
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinaryFile_Serialization.BaiTap.Product.Main" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="xulingoailevadebug.thuchanh.*" />
+          <option name="PATTERN" value="BinaryFile_Serialization.BaiTap.Product.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,12 +219,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="xulingoailevadebug.baitap.Main" />
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CaseStudy.Task1.B1.main" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="xulingoailevadebug.baitap.*" />
+          <option name="PATTERN" value="CaseStudy.Task1.B1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,12 +232,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TriangleException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="xulingoailevadebug.baitap.TriangleException" />
+    <configuration name="mainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CaseStudy.Task1.B1.mainTest" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="xulingoailevadebug.baitap.*" />
+          <option name="PATTERN" value="CaseStudy.Task1.B1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -192,11 +247,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.TriangleException" />
-        <item itemvalue="Application.CalculationExample" />
-        <item itemvalue="Application.ArrayExample" />
-        <item itemvalue="Application.LinearEquationResolver" />
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.AbstractAndInterfaceTests" />
+        <item itemvalue="Application.mainTest" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -253,6 +308,11 @@
       <workItem from="1636248000929" duration="2026000" />
       <workItem from="1636258188504" duration="453000" />
       <workItem from="1636267913026" duration="5125000" />
+      <workItem from="1636696321153" duration="6812000" />
+      <workItem from="1636714580125" duration="4143000" />
+      <workItem from="1636893484700" duration="6001000" />
+      <workItem from="1636973749731" duration="4660000" />
+      <workItem from="1637046335177" duration="6825000" />
     </task>
     <servers />
   </component>
