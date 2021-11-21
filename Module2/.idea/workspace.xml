@@ -23,50 +23,49 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d4ed845-14e8-4802-9a50-a0eeabfb36b8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/WirteProduct.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/BinaryFile_Serialization/BaiTap/Product/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/BinaryFile_Serialization/BaiTap/Product/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/BinaryFile_Serialization/ThucHanh/CopyFile/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/BinaryFile_Serialization/ThucHanh/Student/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/BinaryFile_Serialization/ThucHanh/Student/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/CaseStudy/Task1/B1/House.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/CaseStudy/Task1/B1/HouseInfor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/CaseStudy/Task1/B1/Room.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/CaseStudy/Task1/B1/RoomInfor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/CaseStudy/Task1/B1/Services.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/CaseStudy/Task1/B1/Villa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/CaseStudy/Task1/B1/VillaInfor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/CaseStudy/Task1/B1/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/IO_FileText/Baitap/CopyFile/CoppyFile.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/IO_FileText/Baitap/CopyFile/CoppyFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/IO_FileText/Baitap/CopyFile/text.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/IO_FileText/Baitap/DocFileCsv/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/IO_FileText/Baitap/DocFileCsv/data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/IO_FileText/ThucHanh/Sum/ReadFileExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/IO_FileText/ThucHanh/Sum/text.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/IO_FileText/ThucHanh/Wirte/ReadAndWriteFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/IO_FileText/ThucHanh/Wirte/numbers.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/IO_FileText/ThucHanh/Wirte/result.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/products.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/student.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/CaseStudy/Controllers/MainController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/CaseStudy/Data/House.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/CaseStudy/Data/Room.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/CaseStudy/Data/Villa.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/CaseStudy/Models/DichVuDiKem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/CaseStudy/Models/House.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/CaseStudy/Models/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/CaseStudy/Models/Services.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/CaseStudy/Models/Villa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/String_Regex/ThucHanh/Crawl/CrawlSongExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/String_Regex/ThucHanh/Validate_Account/AccountExampleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/String_Regex/ThucHanh/Validate_Email/EmailExampleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/villa.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/abstract_and_interface/thuchanh/lop_truu_tuong/animal/AbstractAndInterfaceTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/abstract_and_interface/thuchanh/lop_truu_tuong/animal/AbstractAndInterfaceTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/abstract_and_interface/thuchanh/lop_truu_tuong/animal/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/abstract_and_interface/thuchanh/lop_truu_tuong/animal/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/abstract_and_interface/thuchanh/lop_truu_tuong/animal/Chicken.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/abstract_and_interface/thuchanh/lop_truu_tuong/animal/Chicken.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/abstract_and_interface/thuchanh/lop_truu_tuong/animal/Tiger.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/abstract_and_interface/thuchanh/lop_truu_tuong/animal/Tiger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/abstract_and_interface/thuchanh/lop_truu_tuong/edible/Edible.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/abstract_and_interface/thuchanh/lop_truu_tuong/edible/Edible.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java/java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/BinaryFile_Serialization/ThucHanh/Student/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/BinaryFile_Serialization/ThucHanh/Student/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/Collection_Framework/baitap/Practice/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/Collection_Framework/baitap/Practice/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/Collection_Framework/baitap/Practice/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/Collection_Framework/baitap/Practice/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/Collection_Framework/baitap/Practice/ProductManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/Collection_Framework/baitap/Practice/ProductManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java/src/abstract_and_interface/thuchanh/lop_truu_tuong/fruit/Apple.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/abstract_and_interface/thuchanh/lop_truu_tuong/fruit/Apple.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java/src/abstract_and_interface/thuchanh/lop_truu_tuong/fruit/Fruit.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/abstract_and_interface/thuchanh/lop_truu_tuong/fruit/Fruit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java/src/abstract_and_interface/thuchanh/lop_truu_tuong/fruit/Orange.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/abstract_and_interface/thuchanh/lop_truu_tuong/fruit/Orange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java/animal/AbstractAndInterfaceTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java/animal/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java/animal/Chicken.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java/animal/Tiger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java/edible/Edible.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java/fruit/Apple.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java/fruit/Fruit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java/fruit/Orange.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java/xulingoailevadebug/baitap/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/xulingoailevadebug/baitap/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/introduction_to_java/baitap/DocSoThanhChu.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/introduction_to_java/baitap/DocSoThanhChu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/ke_thua/baitap/point_moveablepoint/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/ke_thua/baitap/point_moveablepoint/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/CaseStudy/Task1/B1/House.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/CaseStudy/Task1/B1/HouseInfor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/CaseStudy/Task1/B1/Room.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/CaseStudy/Task1/B1/RoomInfor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/CaseStudy/Task1/B1/Services.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/CaseStudy/Task1/B1/Villa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/CaseStudy/Task1/B1/VillaInfor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/CaseStudy/Task1/B1/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/Collection_Framework/baitap/Practice/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/Collection_Framework/baitap/Practice/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/Collection_Framework/baitap/Practice/ProductManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/Collection_Framework/baitap/Practice/ProductManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/abstract_and_interface/thuchanh/lop_truu_tuong/fruit/Apple.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/abstract_and_interface/thuchanh/lop_truu_tuong/fruit/Apple.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/abstract_and_interface/thuchanh/lop_truu_tuong/fruit/Fruit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/abstract_and_interface/thuchanh/lop_truu_tuong/fruit/Fruit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/abstract_and_interface/thuchanh/lop_truu_tuong/fruit/Orange.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/abstract_and_interface/thuchanh/lop_truu_tuong/fruit/Orange.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/introduction_to_java/baitap/DocSoThanhChu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/introduction_to_java/baitap/DocSoThanhChu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/ke_thua/baitap/point_moveablepoint/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/ke_thua/baitap/point_moveablepoint/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/ke_thua/baitap/point_moveablepoint/MoveablePoint.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/ke_thua/baitap/point_moveablepoint/MoveablePoint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/ke_thua/baitap/point_moveablepoint/Point.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/ke_thua/baitap/point_moveablepoint/Point.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,7 +129,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/java/src/IO_FileText/ThucHanh/Baitap" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -139,15 +138,15 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="CaseStudy.Controllers" />
+      <recent name="abstract_and_interface.thuchanh.lop_truu_tuong.fruit" />
+      <recent name="Collection_Framework.baitap.Practice" />
       <recent name="abstract_and_interface.thuchanh.lop_truu_tuong.animal" />
       <recent name="xulingoailevadebug.baitap" />
-      <recent name="Collection_Framework.baitap.Practice" />
-      <recent name="ke_thua.baitap.point_moveablepoint" />
-      <recent name="b7.thuchanh.circle_comparator" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\drive\Desktop\Codegym\A0721I2_TranVanSon\Module2\java\src\IO_FileText\ThucHanh\Baitap" />
@@ -165,6 +164,7 @@
       <recent name="clean_code.thuchanh.doiten_tachbien.Calculator" />
     </key>
     <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="abstract_and_interface.thuchanh.lop_truu_tuong.fruit" />
       <recent name="CaseStudy.Task1.B1" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -179,13 +179,13 @@
       <recent name="b7.thuchanh.circle_comparator" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.main">
-    <configuration name="AbstractAndInterfaceTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="abstract_and_interface.thuchanh.lop_truu_tuong.animal.AbstractAndInterfaceTests" />
+  <component name="RunManager" selected="Application.MainController">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collection_Framework.baitap.Practice.Main" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="abstract_and_interface.thuchanh.lop_truu_tuong.animal.*" />
+          <option name="PATTERN" value="Collection_Framework.baitap.Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -206,12 +206,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinaryFile_Serialization.BaiTap.Product.Main" />
+    <configuration name="MainControlle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CaseStudy.Controllers.MainControlle" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BinaryFile_Serialization.BaiTap.Product.*" />
+          <option name="PATTERN" value="CaseStudy.Controllers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -219,12 +219,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CaseStudy.Task1.B1.main" />
+    <configuration name="MainController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CaseStudy.Controllers.MainController" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CaseStudy.Task1.B1.*" />
+          <option name="PATTERN" value="CaseStudy.Controllers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -232,12 +232,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="mainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CaseStudy.Task1.B1.mainTest" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CaseStudy.Models.Test" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CaseStudy.Task1.B1.*" />
+          <option name="PATTERN" value="CaseStudy.Models.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -247,11 +247,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.main" />
-        <item itemvalue="Application.AbstractAndInterfaceTests" />
-        <item itemvalue="Application.mainTest" />
-        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.MainController" />
         <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.MainControlle" />
+        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -313,6 +313,12 @@
       <workItem from="1636893484700" duration="6001000" />
       <workItem from="1636973749731" duration="4660000" />
       <workItem from="1637046335177" duration="6825000" />
+      <workItem from="1637146779011" duration="8380000" />
+      <workItem from="1637248460177" duration="3061000" />
+      <workItem from="1637285912688" duration="5836000" />
+      <workItem from="1637308352440" duration="16629000" />
+      <workItem from="1637337634089" duration="32000" />
+      <workItem from="1637382750269" duration="34052000" />
     </task>
     <servers />
   </component>
@@ -341,6 +347,10 @@
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
           <option name="timeStamp" value="1" />
         </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.io.NotSerializableException" package="java.io" />
+          <option name="timeStamp" value="15" />
+        </breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>jar://$PROJECT_DIR$/../../../../../../Program Files/Java/jdk1.8.0_311/src.zip!/java/lang/Object.java</url>
           <line>235</line>
@@ -356,6 +366,27 @@
           <url>file://$PROJECT_DIR$/java/src/xulingoailevadebug/thuchanh/LinearEquationResolver.java</url>
           <line>15</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java/src/introduction_to_java/baitap/DocSoThanhChu.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/java/src/ke_thua/baitap/point_moveablepoint/Main.java</url>
+          <line>8</line>
+          <properties class="ke_thua.baitap.point_moveablepoint.Point" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/java/src/ke_thua/baitap/point_moveablepoint/Main.java</url>
+          <line>76</line>
+          <properties class="ke_thua.baitap.point_moveablepoint.MoveablePoint" method="getSpeed">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

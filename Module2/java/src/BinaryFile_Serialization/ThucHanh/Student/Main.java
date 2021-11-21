@@ -6,7 +6,7 @@ import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
-        List<Student> students = new ArrayList<>();
+        List<Student> students = new ArrayList<Student>();
         students.add(new Student(1, "Vũ Kiều Anh", "Hà Nội"));
         students.add(new Student(2, "Nguyễn Minh Quân", "Hà Nội"));
         students.add(new Student(3, "Đặng Huy Hoà", "Đà Nẵng"));

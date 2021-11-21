@@ -17,7 +17,7 @@ class Point {
         return x;
     }
 
-    public void setX() {
+    public void setX(float x) {
         this.x = x;
     }
 
@@ -89,10 +89,11 @@ class MoveablePoint extends Point{
                 +Arrays.toString(move());
     }
     public float[] move(){
-        float x= getxSpeed() + getX();
+        float x= getX()+getxSpeed();
         float y=getY()+getySpeed();
-        float []a= {x,y};
-        return a;
+        super.setX(x);
+        super.setY(y);
+        return super.getXY();
     }
 }
 class Main{

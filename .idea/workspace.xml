@@ -11,10 +11,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="46ff8ae0-9e07-46b2-8e66-dc39374971c2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/A0721I2_TranVanSon.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/A0721I2_TranVanSon.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module2/java/src/CaseStudy/Models/AccompanyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module2/java/src/CaseStudy/Models/House.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module2/java/src/CaseStudy/Models/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module2/java/src/CaseStudy/Models/Services.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module2/java/src/CaseStudy/Models/Villa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module2/java/src/String_Regex/ThucHanh/Crawl/CrawlSongExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module2/java/src/String_Regex/ThucHanh/Validate_Account/AccountExampleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module2/java/src/String_Regex/ThucHanh/Validate_Email/EmailExampleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Module2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2/java/java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Module2/java/java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2/java/src/Collection_Framework/baitap/Practice/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module2/java/src/Collection_Framework/baitap/Practice/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2/java/src/Collection_Framework/baitap/Practice/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module2/java/src/Collection_Framework/baitap/Practice/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2/java/src/Collection_Framework/baitap/Practice/ProductManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module2/java/src/Collection_Framework/baitap/Practice/ProductManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2/java/src/introduction_to_java/baitap/DocSoThanhChu.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module2/java/src/introduction_to_java/baitap/DocSoThanhChu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Module2/java/src/ke_thua/baitap/point_moveablepoint/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module2/java/src/ke_thua/baitap/point_moveablepoint/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2/out/production/java/CaseStudy/Task1/B1/House.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2/out/production/java/CaseStudy/Task1/B1/HouseInfor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2/out/production/java/CaseStudy/Task1/B1/Room.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2/out/production/java/CaseStudy/Task1/B1/RoomInfor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2/out/production/java/CaseStudy/Task1/B1/Services.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2/out/production/java/CaseStudy/Task1/B1/Villa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2/out/production/java/CaseStudy/Task1/B1/VillaInfor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2/out/production/java/CaseStudy/Task1/B1/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2/out/production/java/Collection_Framework/baitap/Practice/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Module2/out/production/java/Collection_Framework/baitap/Practice/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2/out/production/java/Collection_Framework/baitap/Practice/ProductManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/Module2/out/production/java/Collection_Framework/baitap/Practice/ProductManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2/out/production/java/introduction_to_java/baitap/DocSoThanhChu.class" beforeDir="false" afterPath="$PROJECT_DIR$/Module2/out/production/java/introduction_to_java/baitap/DocSoThanhChu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2/out/production/java/ke_thua/baitap/point_moveablepoint/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Module2/out/production/java/ke_thua/baitap/point_moveablepoint/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2/out/production/java/ke_thua/baitap/point_moveablepoint/MoveablePoint.class" beforeDir="false" afterPath="$PROJECT_DIR$/Module2/out/production/java/ke_thua/baitap/point_moveablepoint/MoveablePoint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module2/out/production/java/ke_thua/baitap/point_moveablepoint/Point.class" beforeDir="false" afterPath="$PROJECT_DIR$/Module2/out/production/java/ke_thua/baitap/point_moveablepoint/Point.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +108,7 @@
       <workItem from="1634715939644" duration="188000" />
       <workItem from="1634716258956" duration="40000" />
       <workItem from="1634718030249" duration="942000" />
+      <workItem from="1637382734647" duration="14000" />
     </task>
     <servers />
   </component>

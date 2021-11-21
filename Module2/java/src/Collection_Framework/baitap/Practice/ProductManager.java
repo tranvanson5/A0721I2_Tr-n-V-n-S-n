@@ -9,7 +9,8 @@ class ProductManager {
     int id;
     String name;
     double price;
-    void add(){
+
+    public void add(){
         System.out.println("Id: ");
         id=Integer.parseInt(scanner.nextLine());
         System.out.println("Name: ");
@@ -18,7 +19,10 @@ class ProductManager {
         price=Integer.parseInt(scanner.nextLine());
         arrayList.add(new Product(id,name,price));
     }
-    public String toString(){
-        return super.toString();
+
+    public void display(){
+        for (Product product:arrayList){
+            System.out.println(product);
+        }
     }
 }
