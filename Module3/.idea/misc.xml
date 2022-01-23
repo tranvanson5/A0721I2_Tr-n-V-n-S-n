@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ProjectRootManager">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/B10/BaiTap/ListCustomer/list-customer" />
+    <file type="web" url="file://$PROJECT_DIR$/B10/BaiTap/Product-management" />
+    <file type="web" url="file://$PROJECT_DIR$/B11/BaiTap" />
+    <file type="web" url="file://$PROJECT_DIR$/B11/BaiTap/Product-Management" />
+    <file type="web" url="file://$PROJECT_DIR$/B11/ThucHanh" />
+    <file type="web" url="file://$PROJECT_DIR$/B12/BaiTap/product-management" />
+    <file type="web" url="file://$PROJECT_DIR$/B12/BaiTap/user-manage" />
+    <file type="web" url="file://$PROJECT_DIR$/B12/BaiTap/User-manager" />
+    <file type="web" url="file://$PROJECT_DIR$/B12/ThucHanh" />
+    <file type="web" url="file://$PROJECT_DIR$/B12/ThucHanh/user-manager" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="corretto-1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>

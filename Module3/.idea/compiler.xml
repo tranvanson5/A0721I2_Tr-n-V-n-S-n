@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="org.example.user-manager.main" target="1.8" />
+      <module name="org.example.user-manager.test" target="1.8" />
+      <module name="Product-Management" target="1.8" />
+      <module name="product-management" target="1.8" />
+      <module name="QuanLySanPham" target="1.8" />
+      <module name="QuanLySanPham.main" target="1.8" />
+      <module name="QuanLySanPham.test" target="1.8" />
+      <module name="ThucHanh" target="1.8" />
+      <module name="ThucHanh.main" target="1.8" />
+      <module name="ThucHanh.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
