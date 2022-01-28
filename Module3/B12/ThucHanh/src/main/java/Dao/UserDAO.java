@@ -109,6 +109,7 @@ public class UserDAO implements IUserDAO{
             rowDeleted = statement.executeUpdate() > 0;
         }
         return rowDeleted;
+
     }
 
     public boolean updateUser(User user) throws SQLException {

@@ -37,11 +37,16 @@
                 <td><c:out value="${user.country}"/></td>
                 <td>
                     <a href="/users?action=edit&id=${user.id}">Edit</a>
-                    <a href="/users?action=delete&id=${user.id}">Delete</a>
+                    <a href="/users?action=delete&id=${user.id}" onclick="confirmdelete()">Delete</a>
                 </td>
             </tr>
         </c:forEach>
     </table>
 </div>
+<script language="javascript">
+    function confirmdelete(){
+        confirm("Do you like freetuts.net");
+    }
+</script>
 </body>
 </html>
