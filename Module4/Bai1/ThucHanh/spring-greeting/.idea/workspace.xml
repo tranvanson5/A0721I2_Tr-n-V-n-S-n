@@ -45,6 +45,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../customer-management" />
     <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
   </component>
   <component name="RecentsManager">
@@ -149,7 +150,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1650631159353</updated>
-      <workItem from="1650631161962" duration="2437000" />
+      <workItem from="1650631161962" duration="2459000" />
+      <workItem from="1650645533575" duration="1455000" />
+      <workItem from="1650687039934" duration="640000" />
     </task>
     <servers />
   </component>

@@ -13,9 +13,7 @@
 <body>
     <form action="/save" method="post">
         <table>
-            <tr>
-                <td><input type="hidden" name="id" value="<%=customer.getId() %>"></td>
-            </tr>
+
             <tr>
                 <td>Name</td>
                 <td><input type="text" name="name"></td>

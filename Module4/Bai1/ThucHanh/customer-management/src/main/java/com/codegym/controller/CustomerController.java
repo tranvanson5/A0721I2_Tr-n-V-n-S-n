@@ -3,16 +3,13 @@ package com.codegym.controller;
 import com.codegym.model.Customer;
 import com.codegym.service.CustomerService;
 import com.codegym.service.ICustomerService;
-import com.sun.org.apache.xpath.internal.operations.Mod;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.servlet.ModelAndView;
 
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Random;
+import java.util.Optional;
 
 @Controller
 public class CustomerController {
@@ -38,17 +35,11 @@ public class CustomerController {
         service.save(customer);
         return modelAndView;
     }
-    @GetMapping("{id}/edit")
-    public ModelAndView edit(@PathVariable int id){
-        ModelAndView modelAndView= new ModelAndView("edit");
-        Customer customer= new Customer();
-        modelAndView.addObject("customer",);
-        return modelAndView;
-    }
-    @PostMapping("/save")
-    public ModelAndView saveUpdate(Customer customer){
+    @GetMapping("{id}/delete")
+    public ModelAndView delete(@PathVariable int id){
         ModelAndView modelAndView=new ModelAndView("redirect:/");
-        service.save(customer);
+        service.delete(id);
         return modelAndView;
     }
+
 }

@@ -2,11 +2,7 @@ package com.codegym.service;
 
 import com.codegym.model.Customer;
 
-import javax.jws.Oneway;
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 
 public class CustomerService implements ICustomerService{
     private static Map<Integer,Customer> map= new HashMap<>();

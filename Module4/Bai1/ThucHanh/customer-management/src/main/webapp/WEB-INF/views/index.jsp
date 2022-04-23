@@ -22,8 +22,7 @@
       <td>${lists.email}</td>
       <td>${lists.address}</td>
       <td>
-        <a>Delete</a>
-        <a>Edit</a>
+        <a href="${lists.id}/delete">Delete</a>
       </td>
     </tr>
   </c:forEach>
