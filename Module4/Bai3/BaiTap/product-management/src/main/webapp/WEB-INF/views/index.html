@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<a th:href="@{/create}">Create</a>
+    <table border="1">
+        <tr>
+            <td>#</td>
+            <td>Name</td>
+            <td>Price</td>
+            <td>Desciption</td>
+            <td>Manufacturer</td>
+            <td>Action</td>
+        </tr>
+        <th:block th:each="list,star: ${products}" >
+            <tr>
+                <td th:text="${star.count}"></td>
+                <td th:text="${list.name}"></td>
+                <td th:text="${list.price}"></td>
+                <td th:text="${list.description}"></td>
+                <td th:text="${list.manufacture}"></td>
+                <td>
+                    <a th:href="@{/{id}/update(id=${list.getId()})}">Edit</a>
+                    <a th:href="@{/{id}/delete(id=${list.getId()})}">Delete</a>
+                </td>
+            </tr>
+        </th:block>
+    </table>
+</body>
+</html>

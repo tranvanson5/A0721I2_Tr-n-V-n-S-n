@@ -56,7 +56,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Bai4/BaiTap/EmailSetting" />
     <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
   </component>
   <component name="RecentsManager">
@@ -165,6 +165,7 @@
       <workItem from="1650631860987" duration="5545000" />
       <workItem from="1650645658713" duration="4141000" />
       <workItem from="1650687087511" duration="2188000" />
+      <workItem from="1651215083948" duration="3382000" />
     </task>
     <servers />
   </component>
