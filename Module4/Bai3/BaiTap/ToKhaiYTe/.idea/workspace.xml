@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6deac933-58f4-4c58-a76a-249af42887ce" name="Changes" comment="" />
+    <list default="true" id="6deac933-58f4-4c58-a76a-249af42887ce" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,7 +67,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/codegym/configuration" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Bai4/ThucHanh/UploadFile" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
   </component>
@@ -174,6 +176,8 @@
       <workItem from="1651373185889" duration="3372000" />
       <workItem from="1651376944004" duration="7712000" />
       <workItem from="1651555380882" duration="8638000" />
+      <workItem from="1651668479041" duration="2610000" />
+      <workItem from="1651823842045" duration="622000" />
     </task>
     <servers />
   </component>
