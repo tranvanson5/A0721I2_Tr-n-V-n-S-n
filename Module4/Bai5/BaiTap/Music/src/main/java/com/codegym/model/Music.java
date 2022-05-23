@@ -8,13 +8,13 @@ public class Music {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private int id;
-    @Column(name = "name",nullable = false, columnDefinition = "VARCHAR(50) NOT NULL")
+    @Column(name = "name", columnDefinition = "VARCHAR(50) NOT NULL")
     private String name;
-    @Column(name = "name",nullable = false, columnDefinition = "VARCHAR(50) NOT NULL")
+    @Column(name = "singer",columnDefinition = "VARCHAR(50) NOT NULL")
     private String singer;
-    @Column(name = "name",nullable = false, columnDefinition = "VARCHAR(50) NOT NULL")
+    @Column(name = "type", columnDefinition = "VARCHAR(50) NOT NULL")
     private String type;
-    @Column(name = "name",nullable = false, columnDefinition = "VARCHAR(255) NOT NULL")
+    @Column(name = "file", columnDefinition = "VARCHAR(255) NOT NULL")
     private String file;
 
     public Music() {

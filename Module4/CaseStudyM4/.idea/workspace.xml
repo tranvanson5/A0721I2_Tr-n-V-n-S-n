@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ae8de7b9-da07-44ef-b7e1-cdf47e526c96" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Bai5/BaiTap/Music/src/main/java/com/codegym/service/IMusicService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai6/BaiTap/Blog/src/main/java/com/codegym/blog/controller/BlogController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai6/BaiTap/Blog/src/main/java/com/codegym/blog/model/Blog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai6/BaiTap/Blog/src/main/java/com/codegym/blog/model/BlogForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai6/BaiTap/Blog/src/main/java/com/codegym/blog/repository/BlogRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai6/BaiTap/Blog/src/main/resources/templates/views/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai6/BaiTap/Blog/src/main/resources/templates/views/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai7/BaiTap/Blog/src/main/java/com/example/blog/model/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai4/ThucHanh/UploadFile/.gradle/7.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai4/ThucHanh/UploadFile/.gradle/7.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai4/ThucHanh/UploadFile/.gradle/7.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai4/ThucHanh/UploadFile/.gradle/7.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai4/ThucHanh/UploadFile/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai4/ThucHanh/UploadFile/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai5/BaiTap/Music/.gradle/7.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai5/BaiTap/Music/.gradle/7.1.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai5/BaiTap/Music/.gradle/7.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai5/BaiTap/Music/.gradle/7.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai5/BaiTap/Music/.gradle/7.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai5/BaiTap/Music/.gradle/7.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai5/BaiTap/Music/.gradle/7.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai5/BaiTap/Music/.gradle/7.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai5/BaiTap/Music/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai5/BaiTap/Music/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai5/BaiTap/Music/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai5/BaiTap/Music/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai5/BaiTap/Music/build/classes/java/main/com/codegym/AppConfig/AppConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai5/BaiTap/Music/build/classes/java/main/com/codegym/AppConfig/AppInit.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai5/BaiTap/Music/build/classes/java/main/com/codegym/AppConfig/AppInit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai5/BaiTap/Music/build/classes/java/main/com/codegym/model/Music.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai5/BaiTap/Music/build/classes/java/main/com/codegym/model/Music.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai5/BaiTap/Music/build/libs/exploded/Music-1.0-SNAPSHOT.war/WEB-INF/classes/com/codegym/AppConfig/AppConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai5/BaiTap/Music/build/libs/exploded/Music-1.0-SNAPSHOT.war/WEB-INF/classes/com/codegym/AppConfig/AppInit.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai5/BaiTap/Music/build/libs/exploded/Music-1.0-SNAPSHOT.war/WEB-INF/classes/com/codegym/AppConfig/AppInit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai5/BaiTap/Music/build/libs/exploded/Music-1.0-SNAPSHOT.war/WEB-INF/classes/com/codegym/model/Music.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai5/BaiTap/Music/build/libs/exploded/Music-1.0-SNAPSHOT.war/WEB-INF/classes/com/codegym/model/Music.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai5/BaiTap/Music/build/libs/exploded/Music-1.0-SNAPSHOT.war/WEB-INF/classes/hibernate.conf.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai5/BaiTap/Music/build/libs/exploded/Music-1.0-SNAPSHOT.war/WEB-INF/classes/hibernate.conf.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai5/BaiTap/Music/build/resources/main/hibernate.conf.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai5/BaiTap/Music/build/resources/main/hibernate.conf.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai5/BaiTap/Music/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai5/BaiTap/Music/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai5/BaiTap/Music/src/main/java/com/codegym/AppConfig/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai5/BaiTap/Music/src/main/java/com/codegym/AppConfig/Configuration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai5/BaiTap/Music/src/main/java/com/codegym/AppConfig/AppInit.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai5/BaiTap/Music/src/main/java/com/codegym/AppConfig/AppInit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai5/BaiTap/Music/src/main/java/com/codegym/model/Music.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai5/BaiTap/Music/src/main/java/com/codegym/model/Music.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai5/BaiTap/Music/src/main/java/com/codegym/model/MusicForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai5/BaiTap/Music/src/main/java/com/codegym/model/MusicForm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai5/BaiTap/Music/src/main/resources/hibernate.conf.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai5/BaiTap/Music/src/main/resources/hibernate.conf.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectId" id="2975bne6gKmg1hltsoQgcsdPkt8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae8de7b9-da07-44ef-b7e1-cdf47e526c96" name="Changes" comment="" />
+      <created>1652451364776</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652451364776</updated>
+      <workItem from="1652451368825" duration="110000" />
+      <workItem from="1653118072011" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
