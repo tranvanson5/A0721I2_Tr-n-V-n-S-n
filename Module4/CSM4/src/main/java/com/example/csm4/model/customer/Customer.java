@@ -1,15 +1,14 @@
 package com.example.csm4.model.customer;
 
+import com.example.csm4.model.contract.Contract;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 
-import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
-import javax.persistence.Id;
-import javax.persistence.ManyToOne;
+import javax.persistence.*;
 import java.util.Date;
+import java.util.Set;
 
 @Entity
 @Getter
@@ -29,4 +28,6 @@ public class Customer {
     private String customerAddress;
     @ManyToOne(targetEntity = CustomerType.class)
     private CustomerType customerType;
+    @OneToMany(mappedBy = "customer")
+    Set<Contract> contractSet;
 }

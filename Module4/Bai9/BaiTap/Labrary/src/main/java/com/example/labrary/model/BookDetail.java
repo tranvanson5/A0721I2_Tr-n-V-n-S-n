@@ -1,8 +1,12 @@
 package com.example.labrary.model;
 
-import lombok.*;
+import lombok.AllArgsConstructor;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.Setter;
 
 import javax.persistence.*;
+import java.util.Set;
 
 @Entity
 @Setter
@@ -14,7 +18,9 @@ public class BookDetail {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private int id;
     private String author;
-    private String quantity;
-    @OneToOne(mappedBy = "bookDetail")
+    private int quantity;
+    @OneToOne
+    @MapsId
+    @JoinColumn(name = "id")
     private Book book;
 }

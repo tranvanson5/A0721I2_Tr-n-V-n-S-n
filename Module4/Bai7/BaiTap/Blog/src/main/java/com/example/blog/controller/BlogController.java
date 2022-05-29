@@ -26,7 +26,7 @@ public class BlogController {
     private ICategoryRepository iCategoryRepository;
 
     @GetMapping("")
-    public ModelAndView index(@RequestParam("search") Optional<String> search, @PageableDefault(5) Pageable pageable){
+    public ModelAndView Index(@RequestParam("search") Optional<String> search, @PageableDefault(5) Pageable pageable){
         Page<Blog> blogPage;
         if(search.isPresent()){
 

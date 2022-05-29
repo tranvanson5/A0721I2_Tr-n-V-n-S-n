@@ -10,11 +10,6 @@ import org.springframework.stereotype.Repository;
 
 @Repository
 public interface UserRepository extends JpaRepository<User,Integer>{
-    Page<User> searchAllByOrFistnameContainingOrLastnameContainingOrNumberphoneContainsOrEmailContaining(
-            String fistname,
-            String lastname,
-            String numberphone,
-            String email,
-            Pageable pageable
-    );
+
+    Page<User> searchAllByOrFistnameContainingOrLastnameContainingOrNumberphoneContainsOrEmailContainingOrAge(String trim, String trim1, String trim2, String trim3,int age,Pageable pageable);
 }

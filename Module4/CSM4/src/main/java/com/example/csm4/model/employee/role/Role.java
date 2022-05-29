@@ -18,4 +18,6 @@ public class Role {
     @GeneratedValue
     private int roleId;
     private String roleName;
+    @ManyToMany(mappedBy = "roles")
+    Set<User> users;
 }

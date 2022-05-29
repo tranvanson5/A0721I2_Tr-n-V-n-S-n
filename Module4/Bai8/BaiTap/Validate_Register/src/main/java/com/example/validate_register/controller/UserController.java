@@ -24,11 +24,12 @@ public class UserController {
                            @PageableDefault(5) Pageable pageable, Model model) throws Exception{
         Page<User> users;
         if(search.isPresent()){
-            users= userRepository.searchAllByOrFistnameContainingOrLastnameContainingOrNumberphoneContainsOrEmailContaining(
+            users= userRepository.searchAllByOrFistnameContainingOrLastnameContainingOrNumberphoneContainsOrEmailContainingOrAge(
                     search.get().trim(),
                     search.get().trim(),
                     search.get().trim(),
                     search.get().trim(),
+                    Integer.parseInt(search.get().trim()),
                     pageable);
         } else{
             users=userRepository.findAll(pageable);
